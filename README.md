@@ -289,43 +289,17 @@ SELECT -- Step 3: Combine all metrics into analysis-ready dataset
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- SQLite 3
-- Libraries: openpyxl, csv (standard library)
+### To View Results
+1. **Open `banking-analysis.xlsx`** - Professional dashboard with 7 sheets, charts, and KPIs
+2. **Review `banking-queries.sql`** - 6 SQL queries with detailed inline comments
+3. **Query `banking.db`** - Use any SQLite client (SQLite Studio, Azure Data Studio, DBeaver, etc.)
 
-### Step 1: Create the Database
-```bash
-python setup_database.py
-```
-
-This:
-- Creates `banking.db` with 4 tables
-- Populates with 1,200 customers, 1,500 loans, 9,000 payments
-- Introduces realistic data quality issues (7% orphaned loans, 10% missing dates, etc.)
-
-### Step 2: Execute Analysis Queries
-```bash
-python execute_queries.py
-```
-
-This:
-- Runs all 6 analysis queries
-- Exports results to CSV files in `query_results/` directory
-- Validates row counts and data integrity
-
-### Step 3: Generate Excel Workbook
-```bash
-python create_excel.py
-```
-
-This:
-- Creates `banking-analysis.xlsx` with 7 sheets
-- Applies professional formatting and styling
-- Adds charts and visualizations
-- Ready for presentation
+### Database Access
+- **Format:** SQLite 3
+- **Location:** `banking.db` in project root
+- **Compatibility:** Works with any SQL IDE or programming language that supports SQLite
 
 ---
 
@@ -437,29 +411,18 @@ This:
 
 ## 🔧 Advanced Usage
 
-### Refreshing Data
-To regenerate the database with new random seed:
-```bash
-rm banking.db
-python setup_database.py
-python execute_queries.py
-python create_excel.py
-```
+### Extending the Analysis
+To add your own analysis:
+1. Edit `banking-queries.sql` with new queries
+2. Run queries directly in SQLite CLI or your preferred SQL IDE
+3. Use CSV exports in `query_results/` for data integration
 
-### Custom Queries
-To add your own analysis, edit `banking-queries.sql` and add:
-```sql
--- Query 7: My Custom Analysis
-SELECT ...
-```
-
-Then update `execute_queries.py` to include the new query in the `queries` list.
-
-### Excel Automation
+### BI Tool Integration
 To integrate with Power BI or Tableau:
-1. Use CSV files in `query_results/` as data source
-2. Point BI tool to specific sheets (e.g., "Detailed Data")
-3. Refresh monthly by re-running Python scripts
+1. Connect to `banking.db` directly as SQLite data source
+2. Use SQL queries from `banking-queries.sql` for transformation
+3. Reference CSV files in `query_results/` for specific datasets
+4. Build dashboards on top of analysis-ready `06_Main_Export_Analysis_Ready.csv`
 
 ---
 
@@ -514,8 +477,8 @@ This case study demonstrates competence in:
 **Project Management:**
 ✅ End-to-end project delivery  
 ✅ Documentation and methodology  
-✅ Automation with Python scripting  
 ✅ Version control and reproducibility  
+✅ Professional portfolio presentation  
 
 ---
 
@@ -537,13 +500,13 @@ This case study demonstrates competence in:
 
 ---
 
-## 📞 Support
+## 📞 Documentation
 
-For questions about:
-- **SQL Queries:** See comments in `banking-queries.sql`
-- **Excel Structure:** Review Sheet 7 (Methodology)
-- **Data:** Review `banking-queries.sql` for create statements
-- **Python Scripts:** Check inline comments in `.py` files
+For detailed information:
+- **SQL Queries & Techniques:** See inline comments in `banking-queries.sql`
+- **Excel Structure & Sheet Details:** Review Sheet 7 (Methodology) in `banking-analysis.xlsx`
+- **Database Schema:** Review schema creation statements in `banking-queries.sql`
+- **Data Definitions:** See Data Dictionary section below in this README
 
 ---
 
