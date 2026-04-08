@@ -1,0 +1,4 @@
+status,loan_count,avg_loan_amount,avg_loan_age_days,min_loan_age_days,max_loan_age_days,total_payments_made
+Active,5400,5753.5,1202.1,829.1,1558.1,5400
+Closed,3150,5744.0,1203.5,831.1,1557.1,3150
+Defaulted,450,5760.0,1206.9,838.1,1558.1,450

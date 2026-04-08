@@ -1,0 +1,5 @@
+data_quality_issue,issue_count,pct_of_total
+Orphaned Loans,100,6.67
+Loans with No Payment Records,0,0.0
+Payments Missing payment_date,900,10.0
+Customers Missing Employment Status,120,10.0

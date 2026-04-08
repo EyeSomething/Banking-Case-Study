@@ -1,0 +1,1054 @@
+customer_id,name,branch_name,credit_score,employment_status,num_loans,total_borrowed,defaulted_loans,on_time_pct,risk_category
+108,Customer_108,Texas Hub,708,Retired,2,66696.0,0,100.0,Good
+109,Customer_109,Silicon Valley,709,Retired,2,66708.0,0,100.0,Good
+111,Customer_111,Miami Beach,711,Employed,2,66732.0,0,100.0,Good
+112,Customer_112,Boston Financial,712,Employed,2,66744.0,0,100.0,Good
+113,Customer_113,Downtown Metro,713,Employed,2,66756.0,0,100.0,Good
+114,Customer_114,Midtown Plaza,714,Employed,2,66768.0,0,100.0,Good
+115,Customer_115,Chicago Central,715,Self-Employed,1,36690.0,0,100.0,Good
+116,Customer_116,Texas Hub,716,Self-Employed,2,66792.0,0,100.0,Good
+117,Customer_117,Silicon Valley,717,Self-Employed,2,66804.0,0,100.0,Good
+118,Customer_118,West Coast Tower,718,Retired,2,66816.0,0,100.0,Good
+119,Customer_119,Miami Beach,719,Retired,2,66828.0,0,100.0,Good
+121,Customer_121,Downtown Metro,721,Employed,2,66852.0,0,100.0,Good
+122,Customer_122,Midtown Plaza,722,Employed,2,66864.0,0,100.0,Good
+123,Customer_123,Chicago Central,723,Employed,2,66876.0,0,100.0,Good
+124,Customer_124,Texas Hub,724,Employed,2,66888.0,0,100.0,Good
+125,Customer_125,Silicon Valley,725,Self-Employed,1,30150.0,0,100.0,Good
+126,Customer_126,West Coast Tower,726,Self-Employed,2,66912.0,0,100.0,Good
+127,Customer_127,Miami Beach,727,Self-Employed,2,66924.0,0,100.0,Good
+128,Customer_128,Boston Financial,728,Retired,2,66936.0,0,100.0,Good
+129,Customer_129,Downtown Metro,729,Retired,2,66948.0,0,100.0,Good
+131,Customer_131,Chicago Central,731,Employed,2,66972.0,0,100.0,Good
+132,Customer_132,Texas Hub,732,Employed,2,66984.0,0,100.0,Good
+133,Customer_133,Silicon Valley,733,Employed,2,66996.0,0,100.0,Good
+134,Customer_134,West Coast Tower,734,Employed,2,67008.0,0,100.0,Good
+135,Customer_135,Miami Beach,735,Self-Employed,2,67020.0,0,100.0,Good
+136,Customer_136,Boston Financial,736,Self-Employed,2,67032.0,0,100.0,Good
+137,Customer_137,Downtown Metro,737,Self-Employed,2,67044.0,0,100.0,Good
+138,Customer_138,Midtown Plaza,738,Retired,2,67056.0,0,100.0,Good
+139,Customer_139,Chicago Central,739,Retired,2,67068.0,0,100.0,Good
+141,Customer_141,Silicon Valley,741,Employed,2,67092.0,0,100.0,Good
+142,Customer_142,West Coast Tower,742,Employed,2,67104.0,0,100.0,Good
+143,Customer_143,Miami Beach,743,Employed,2,67116.0,0,100.0,Good
+144,Customer_144,Boston Financial,744,Employed,2,67128.0,0,100.0,Good
+145,Customer_145,Downtown Metro,745,Self-Employed,1,36870.0,0,100.0,Good
+146,Customer_146,Midtown Plaza,746,Self-Employed,2,67152.0,0,100.0,Good
+147,Customer_147,Chicago Central,747,Self-Employed,2,67164.0,0,100.0,Good
+148,Customer_148,Texas Hub,748,Retired,2,67176.0,0,100.0,Good
+149,Customer_149,Silicon Valley,749,Retired,2,67188.0,0,100.0,Good
+158,Customer_158,West Coast Tower,758,Retired,2,67296.0,0,100.0,Excellent
+159,Customer_159,Miami Beach,759,Retired,2,67308.0,0,100.0,Excellent
+161,Customer_161,Downtown Metro,761,Employed,2,67332.0,0,100.0,Excellent
+162,Customer_162,Midtown Plaza,762,Employed,2,67344.0,0,100.0,Excellent
+163,Customer_163,Chicago Central,763,Employed,2,67356.0,0,100.0,Excellent
+164,Customer_164,Texas Hub,764,Employed,2,67368.0,0,100.0,Excellent
+165,Customer_165,Silicon Valley,765,Self-Employed,2,67380.0,0,100.0,Excellent
+166,Customer_166,West Coast Tower,766,Self-Employed,2,67392.0,0,100.0,Excellent
+167,Customer_167,Miami Beach,767,Self-Employed,2,67404.0,0,100.0,Excellent
+168,Customer_168,Boston Financial,768,Retired,2,67416.0,0,100.0,Excellent
+169,Customer_169,Downtown Metro,769,Retired,2,67428.0,0,100.0,Excellent
+171,Customer_171,Chicago Central,771,Employed,2,67452.0,0,100.0,Excellent
+172,Customer_172,Texas Hub,772,Employed,2,67464.0,0,100.0,Excellent
+173,Customer_173,Silicon Valley,773,Employed,2,67476.0,0,100.0,Excellent
+174,Customer_174,West Coast Tower,774,Employed,2,67488.0,0,100.0,Excellent
+175,Customer_175,Miami Beach,775,Self-Employed,1,37050.0,0,100.0,Excellent
+176,Customer_176,Boston Financial,776,Self-Employed,2,67512.0,0,100.0,Excellent
+177,Customer_177,Downtown Metro,777,Self-Employed,2,67524.0,0,100.0,Excellent
+178,Customer_178,Midtown Plaza,778,Retired,2,67536.0,0,100.0,Excellent
+179,Customer_179,Chicago Central,779,Retired,2,67548.0,0,100.0,Excellent
+181,Customer_181,Silicon Valley,781,Employed,2,67572.0,0,100.0,Excellent
+182,Customer_182,West Coast Tower,782,Employed,2,67584.0,0,100.0,Excellent
+183,Customer_183,Miami Beach,783,Employed,2,67596.0,0,100.0,Excellent
+184,Customer_184,Boston Financial,784,Employed,2,67608.0,0,100.0,Excellent
+185,Customer_185,Downtown Metro,785,Self-Employed,1,30510.0,0,100.0,Excellent
+186,Customer_186,Midtown Plaza,786,Self-Employed,2,67632.0,0,100.0,Excellent
+187,Customer_187,Chicago Central,787,Self-Employed,2,67644.0,0,100.0,Excellent
+188,Customer_188,Texas Hub,788,Retired,2,67656.0,0,100.0,Excellent
+189,Customer_189,Silicon Valley,789,Retired,2,67668.0,0,100.0,Excellent
+191,Customer_191,Miami Beach,791,Employed,2,67692.0,0,100.0,Excellent
+192,Customer_192,Boston Financial,792,Employed,2,67704.0,0,100.0,Excellent
+193,Customer_193,Downtown Metro,793,Employed,2,67716.0,0,100.0,Excellent
+194,Customer_194,Midtown Plaza,794,Employed,2,67728.0,0,100.0,Excellent
+195,Customer_195,Chicago Central,795,Self-Employed,2,67740.0,0,100.0,Excellent
+196,Customer_196,Texas Hub,796,Self-Employed,2,67752.0,0,100.0,Excellent
+197,Customer_197,Silicon Valley,797,Self-Employed,2,67764.0,0,100.0,Excellent
+198,Customer_198,West Coast Tower,798,Retired,2,67776.0,0,100.0,Excellent
+199,Customer_199,Miami Beach,799,Retired,2,67788.0,0,100.0,Excellent
+208,Customer_208,Boston Financial,808,Retired,2,67896.0,0,100.0,Excellent
+209,Customer_209,Downtown Metro,809,Retired,2,67908.0,0,100.0,Excellent
+211,Customer_211,Chicago Central,811,Employed,2,67932.0,0,100.0,Excellent
+212,Customer_212,Texas Hub,812,Employed,2,67944.0,0,100.0,Excellent
+213,Customer_213,Silicon Valley,813,Employed,2,67956.0,0,100.0,Excellent
+214,Customer_214,West Coast Tower,814,Employed,2,67968.0,0,100.0,Excellent
+215,Customer_215,Miami Beach,815,Self-Employed,1,30690.0,0,100.0,Excellent
+216,Customer_216,Boston Financial,816,Self-Employed,2,67992.0,0,100.0,Excellent
+217,Customer_217,Downtown Metro,817,Self-Employed,2,68004.0,0,100.0,Excellent
+218,Customer_218,Midtown Plaza,818,Retired,2,68016.0,0,100.0,Excellent
+219,Customer_219,Chicago Central,819,Retired,2,68028.0,0,100.0,Excellent
+221,Customer_221,Silicon Valley,821,Employed,2,68052.0,0,100.0,Excellent
+222,Customer_222,West Coast Tower,822,Employed,2,68064.0,0,100.0,Excellent
+223,Customer_223,Miami Beach,823,Employed,2,68076.0,0,100.0,Excellent
+224,Customer_224,Boston Financial,824,Employed,2,68088.0,0,100.0,Excellent
+225,Customer_225,Downtown Metro,825,Self-Employed,2,68100.0,0,100.0,Excellent
+226,Customer_226,Midtown Plaza,826,Self-Employed,2,68112.0,0,100.0,Excellent
+227,Customer_227,Chicago Central,827,Self-Employed,2,68124.0,0,100.0,Excellent
+228,Customer_228,Texas Hub,828,Retired,2,68136.0,0,100.0,Excellent
+229,Customer_229,Silicon Valley,829,Retired,2,68148.0,0,100.0,Excellent
+231,Customer_231,Miami Beach,831,Employed,2,68172.0,0,100.0,Excellent
+232,Customer_232,Boston Financial,832,Employed,2,68184.0,0,100.0,Excellent
+233,Customer_233,Downtown Metro,833,Employed,2,68196.0,0,100.0,Excellent
+234,Customer_234,Midtown Plaza,834,Employed,2,68208.0,0,100.0,Excellent
+235,Customer_235,Chicago Central,835,Self-Employed,1,37410.0,0,100.0,Excellent
+236,Customer_236,Texas Hub,836,Self-Employed,2,68232.0,0,100.0,Excellent
+237,Customer_237,Silicon Valley,837,Self-Employed,2,68244.0,0,100.0,Excellent
+238,Customer_238,West Coast Tower,838,Retired,2,68256.0,0,100.0,Excellent
+239,Customer_239,Miami Beach,839,Retired,2,68268.0,0,100.0,Excellent
+241,Customer_241,Downtown Metro,841,Employed,2,68292.0,0,100.0,Excellent
+242,Customer_242,Midtown Plaza,842,Employed,2,68304.0,0,100.0,Excellent
+243,Customer_243,Chicago Central,843,Employed,2,68316.0,0,100.0,Excellent
+244,Customer_244,Texas Hub,844,Employed,2,68328.0,0,100.0,Excellent
+245,Customer_245,Silicon Valley,845,Self-Employed,1,30870.0,0,100.0,Excellent
+246,Customer_246,West Coast Tower,846,Self-Employed,2,68352.0,0,100.0,Excellent
+247,Customer_247,Miami Beach,847,Self-Employed,2,68364.0,0,100.0,Excellent
+248,Customer_248,Boston Financial,848,Retired,2,68376.0,0,100.0,Excellent
+249,Customer_249,Downtown Metro,849,Retired,2,68388.0,0,100.0,Excellent
+258,Customer_258,Midtown Plaza,858,Retired,2,68496.0,0,100.0,Excellent
+259,Customer_259,Chicago Central,859,Retired,2,68508.0,0,100.0,Excellent
+261,Customer_261,Silicon Valley,861,Employed,2,68532.0,0,100.0,Excellent
+262,Customer_262,West Coast Tower,862,Employed,2,68544.0,0,100.0,Excellent
+263,Customer_263,Miami Beach,863,Employed,2,68556.0,0,100.0,Excellent
+264,Customer_264,Boston Financial,864,Employed,2,68568.0,0,100.0,Excellent
+265,Customer_265,Downtown Metro,865,Self-Employed,1,37590.0,0,100.0,Excellent
+266,Customer_266,Midtown Plaza,866,Self-Employed,2,68592.0,0,100.0,Excellent
+267,Customer_267,Chicago Central,867,Self-Employed,2,68604.0,0,100.0,Excellent
+268,Customer_268,Texas Hub,868,Retired,2,68616.0,0,100.0,Excellent
+269,Customer_269,Silicon Valley,869,Retired,2,68628.0,0,100.0,Excellent
+271,Customer_271,Miami Beach,871,Employed,2,68652.0,0,100.0,Excellent
+272,Customer_272,Boston Financial,872,Employed,2,68664.0,0,100.0,Excellent
+273,Customer_273,Downtown Metro,873,Employed,2,68676.0,0,100.0,Excellent
+274,Customer_274,Midtown Plaza,874,Employed,2,68688.0,0,100.0,Excellent
+275,Customer_275,Chicago Central,875,Self-Employed,1,31050.0,0,100.0,Excellent
+276,Customer_276,Texas Hub,876,Self-Employed,2,68712.0,0,100.0,Excellent
+277,Customer_277,Silicon Valley,877,Self-Employed,2,68724.0,0,100.0,Excellent
+278,Customer_278,West Coast Tower,878,Retired,2,68736.0,0,100.0,Excellent
+279,Customer_279,Miami Beach,879,Retired,2,68748.0,0,100.0,Excellent
+281,Customer_281,Downtown Metro,881,Employed,2,68772.0,0,100.0,Excellent
+282,Customer_282,Midtown Plaza,882,Employed,2,68784.0,0,100.0,Excellent
+283,Customer_283,Chicago Central,883,Employed,2,68796.0,0,100.0,Excellent
+284,Customer_284,Texas Hub,884,Employed,2,68808.0,0,100.0,Excellent
+285,Customer_285,Silicon Valley,885,Self-Employed,2,68820.0,0,100.0,Excellent
+286,Customer_286,West Coast Tower,886,Self-Employed,2,68832.0,0,100.0,Excellent
+287,Customer_287,Miami Beach,887,Self-Employed,2,68844.0,0,100.0,Excellent
+288,Customer_288,Boston Financial,888,Retired,2,68856.0,0,100.0,Excellent
+289,Customer_289,Downtown Metro,889,Retired,2,68868.0,0,100.0,Excellent
+291,Customer_291,Chicago Central,891,Employed,2,68892.0,0,100.0,Excellent
+292,Customer_292,Texas Hub,892,Employed,2,68904.0,0,100.0,Excellent
+293,Customer_293,Silicon Valley,893,Employed,2,68916.0,0,100.0,Excellent
+294,Customer_294,West Coast Tower,894,Employed,2,68928.0,0,100.0,Excellent
+295,Customer_295,Miami Beach,895,Self-Employed,1,37770.0,0,100.0,Excellent
+296,Customer_296,Boston Financial,896,Self-Employed,2,68952.0,0,100.0,Excellent
+297,Customer_297,Downtown Metro,897,Self-Employed,2,68964.0,0,100.0,Excellent
+298,Customer_298,Midtown Plaza,898,Retired,2,68976.0,0,100.0,Excellent
+299,Customer_299,Chicago Central,899,Retired,2,68988.0,0,100.0,Excellent
+308,Customer_308,Texas Hub,608,Retired,2,69096.0,0,100.0,Fair
+309,Customer_309,Silicon Valley,609,Retired,2,69108.0,0,100.0,Fair
+311,Customer_311,Miami Beach,611,Employed,2,69132.0,0,100.0,Fair
+312,Customer_312,Boston Financial,612,Employed,2,69144.0,0,100.0,Fair
+313,Customer_313,Downtown Metro,613,Employed,2,69156.0,0,100.0,Fair
+314,Customer_314,Midtown Plaza,614,Employed,2,69168.0,0,100.0,Fair
+315,Customer_315,Chicago Central,615,Self-Employed,2,69180.0,0,100.0,Fair
+316,Customer_316,Texas Hub,616,Self-Employed,2,69192.0,0,100.0,Fair
+317,Customer_317,Silicon Valley,617,Self-Employed,2,69204.0,0,100.0,Fair
+318,Customer_318,West Coast Tower,618,Retired,2,69216.0,0,100.0,Fair
+319,Customer_319,Miami Beach,619,Retired,2,69228.0,0,100.0,Fair
+321,Customer_321,Downtown Metro,621,Employed,2,69252.0,0,100.0,Fair
+322,Customer_322,Midtown Plaza,622,Employed,2,69264.0,0,100.0,Fair
+323,Customer_323,Chicago Central,623,Employed,2,69276.0,0,100.0,Fair
+324,Customer_324,Texas Hub,624,Employed,2,69288.0,0,100.0,Fair
+325,Customer_325,Silicon Valley,625,Self-Employed,1,37950.0,0,100.0,Fair
+326,Customer_326,West Coast Tower,626,Self-Employed,2,69312.0,0,100.0,Fair
+327,Customer_327,Miami Beach,627,Self-Employed,2,69324.0,0,100.0,Fair
+328,Customer_328,Boston Financial,628,Retired,2,69336.0,0,100.0,Fair
+329,Customer_329,Downtown Metro,629,Retired,2,69348.0,0,100.0,Fair
+331,Customer_331,Chicago Central,631,Employed,2,69372.0,0,100.0,Fair
+332,Customer_332,Texas Hub,632,Employed,2,69384.0,0,100.0,Fair
+333,Customer_333,Silicon Valley,633,Employed,2,69396.0,0,100.0,Fair
+334,Customer_334,West Coast Tower,634,Employed,2,69408.0,0,100.0,Fair
+335,Customer_335,Miami Beach,635,Self-Employed,1,31410.0,0,100.0,Fair
+336,Customer_336,Boston Financial,636,Self-Employed,2,69432.0,0,100.0,Fair
+337,Customer_337,Downtown Metro,637,Self-Employed,2,69444.0,0,100.0,Fair
+338,Customer_338,Midtown Plaza,638,Retired,2,69456.0,0,100.0,Fair
+339,Customer_339,Chicago Central,639,Retired,2,69468.0,0,100.0,Fair
+341,Customer_341,Silicon Valley,641,Employed,2,69492.0,0,100.0,Fair
+342,Customer_342,West Coast Tower,642,Employed,2,69504.0,0,100.0,Fair
+343,Customer_343,Miami Beach,643,Employed,2,69516.0,0,100.0,Fair
+344,Customer_344,Boston Financial,644,Employed,2,69528.0,0,100.0,Fair
+345,Customer_345,Downtown Metro,645,Self-Employed,2,69540.0,0,100.0,Fair
+346,Customer_346,Midtown Plaza,646,Self-Employed,2,69552.0,0,100.0,Fair
+347,Customer_347,Chicago Central,647,Self-Employed,2,69564.0,0,100.0,Fair
+348,Customer_348,Texas Hub,648,Retired,2,69576.0,0,100.0,Fair
+349,Customer_349,Silicon Valley,649,Retired,2,69588.0,0,100.0,Fair
+358,Customer_358,West Coast Tower,658,Retired,2,69696.0,0,100.0,Fair
+359,Customer_359,Miami Beach,659,Retired,2,69708.0,0,100.0,Fair
+361,Customer_361,Downtown Metro,661,Employed,2,69732.0,0,100.0,Fair
+362,Customer_362,Midtown Plaza,662,Employed,2,69744.0,0,100.0,Fair
+363,Customer_363,Chicago Central,663,Employed,2,69756.0,0,100.0,Fair
+364,Customer_364,Texas Hub,664,Employed,2,69768.0,0,100.0,Fair
+365,Customer_365,Silicon Valley,665,Self-Employed,1,31590.0,0,100.0,Fair
+366,Customer_366,West Coast Tower,666,Self-Employed,2,69792.0,0,100.0,Fair
+367,Customer_367,Miami Beach,667,Self-Employed,2,69804.0,0,100.0,Fair
+368,Customer_368,Boston Financial,668,Retired,2,69816.0,0,100.0,Fair
+369,Customer_369,Downtown Metro,669,Retired,2,69828.0,0,100.0,Fair
+371,Customer_371,Chicago Central,671,Employed,2,69852.0,0,100.0,Fair
+372,Customer_372,Texas Hub,672,Employed,2,69864.0,0,100.0,Fair
+373,Customer_373,Silicon Valley,673,Employed,2,69876.0,0,100.0,Fair
+374,Customer_374,West Coast Tower,674,Employed,2,69888.0,0,100.0,Fair
+375,Customer_375,Miami Beach,675,Self-Employed,2,69900.0,0,100.0,Fair
+376,Customer_376,Boston Financial,676,Self-Employed,2,69912.0,0,100.0,Fair
+377,Customer_377,Downtown Metro,677,Self-Employed,2,69924.0,0,100.0,Fair
+378,Customer_378,Midtown Plaza,678,Retired,2,69936.0,0,100.0,Fair
+379,Customer_379,Chicago Central,679,Retired,2,69948.0,0,100.0,Fair
+381,Customer_381,Silicon Valley,681,Employed,2,69972.0,0,100.0,Fair
+382,Customer_382,West Coast Tower,682,Employed,2,69984.0,0,100.0,Fair
+383,Customer_383,Miami Beach,683,Employed,2,69996.0,0,100.0,Fair
+384,Customer_384,Boston Financial,684,Employed,2,70008.0,0,100.0,Fair
+385,Customer_385,Downtown Metro,685,Self-Employed,1,38310.0,0,100.0,Fair
+386,Customer_386,Midtown Plaza,686,Self-Employed,2,70032.0,0,100.0,Fair
+387,Customer_387,Chicago Central,687,Self-Employed,2,70044.0,0,100.0,Fair
+388,Customer_388,Texas Hub,688,Retired,2,70056.0,0,100.0,Fair
+389,Customer_389,Silicon Valley,689,Retired,2,70068.0,0,100.0,Fair
+391,Customer_391,Miami Beach,691,Employed,2,70092.0,0,100.0,Fair
+392,Customer_392,Boston Financial,692,Employed,2,70104.0,0,100.0,Fair
+393,Customer_393,Downtown Metro,693,Employed,2,70116.0,0,100.0,Fair
+394,Customer_394,Midtown Plaza,694,Employed,2,70128.0,0,100.0,Fair
+395,Customer_395,Chicago Central,695,Self-Employed,1,31770.0,0,100.0,Fair
+396,Customer_396,Texas Hub,696,Self-Employed,2,70152.0,0,100.0,Fair
+397,Customer_397,Silicon Valley,697,Self-Employed,2,70164.0,0,100.0,Fair
+398,Customer_398,West Coast Tower,698,Retired,2,70176.0,0,100.0,Fair
+399,Customer_399,Miami Beach,699,Retired,2,70188.0,0,100.0,Fair
+408,Customer_408,Boston Financial,708,Retired,2,70296.0,0,100.0,Good
+409,Customer_409,Downtown Metro,709,Retired,2,70308.0,0,100.0,Good
+411,Customer_411,Chicago Central,711,Employed,2,70332.0,0,100.0,Good
+412,Customer_412,Texas Hub,712,Employed,2,70344.0,0,100.0,Good
+413,Customer_413,Silicon Valley,713,Employed,2,70356.0,0,100.0,Good
+414,Customer_414,West Coast Tower,714,Employed,2,70368.0,0,100.0,Good
+415,Customer_415,Miami Beach,715,Self-Employed,1,38490.0,0,100.0,Good
+416,Customer_416,Boston Financial,716,Self-Employed,2,70392.0,0,100.0,Good
+417,Customer_417,Downtown Metro,717,Self-Employed,2,70404.0,0,100.0,Good
+418,Customer_418,Midtown Plaza,718,Retired,2,70416.0,0,100.0,Good
+419,Customer_419,Chicago Central,719,Retired,2,70428.0,0,100.0,Good
+421,Customer_421,Silicon Valley,721,Employed,2,70452.0,0,100.0,Good
+422,Customer_422,West Coast Tower,722,Employed,2,70464.0,0,100.0,Good
+423,Customer_423,Miami Beach,723,Employed,2,70476.0,0,100.0,Good
+424,Customer_424,Boston Financial,724,Employed,2,70488.0,0,100.0,Good
+425,Customer_425,Downtown Metro,725,Self-Employed,1,31950.0,0,100.0,Good
+426,Customer_426,Midtown Plaza,726,Self-Employed,2,70512.0,0,100.0,Good
+427,Customer_427,Chicago Central,727,Self-Employed,2,70524.0,0,100.0,Good
+428,Customer_428,Texas Hub,728,Retired,2,70536.0,0,100.0,Good
+429,Customer_429,Silicon Valley,729,Retired,2,70548.0,0,100.0,Good
+431,Customer_431,Miami Beach,731,Employed,2,70572.0,0,100.0,Good
+432,Customer_432,Boston Financial,732,Employed,2,70584.0,0,100.0,Good
+433,Customer_433,Downtown Metro,733,Employed,2,70596.0,0,100.0,Good
+434,Customer_434,Midtown Plaza,734,Employed,2,70608.0,0,100.0,Good
+435,Customer_435,Chicago Central,735,Self-Employed,2,70620.0,0,100.0,Good
+436,Customer_436,Texas Hub,736,Self-Employed,2,70632.0,0,100.0,Good
+437,Customer_437,Silicon Valley,737,Self-Employed,2,70644.0,0,100.0,Good
+438,Customer_438,West Coast Tower,738,Retired,2,70656.0,0,100.0,Good
+439,Customer_439,Miami Beach,739,Retired,2,70668.0,0,100.0,Good
+441,Customer_441,Downtown Metro,741,Employed,2,70692.0,0,100.0,Good
+442,Customer_442,Midtown Plaza,742,Employed,2,70704.0,0,100.0,Good
+443,Customer_443,Chicago Central,743,Employed,2,70716.0,0,100.0,Good
+444,Customer_444,Texas Hub,744,Employed,2,70728.0,0,100.0,Good
+445,Customer_445,Silicon Valley,745,Self-Employed,1,38670.0,0,100.0,Good
+446,Customer_446,West Coast Tower,746,Self-Employed,2,70752.0,0,100.0,Good
+447,Customer_447,Miami Beach,747,Self-Employed,2,70764.0,0,100.0,Good
+448,Customer_448,Boston Financial,748,Retired,2,70776.0,0,100.0,Good
+449,Customer_449,Downtown Metro,749,Retired,2,70788.0,0,100.0,Good
+458,Customer_458,Midtown Plaza,758,Retired,2,70896.0,0,100.0,Excellent
+459,Customer_459,Chicago Central,759,Retired,2,70908.0,0,100.0,Excellent
+461,Customer_461,Silicon Valley,761,Employed,2,70932.0,0,100.0,Excellent
+462,Customer_462,West Coast Tower,762,Employed,2,70944.0,0,100.0,Excellent
+463,Customer_463,Miami Beach,763,Employed,2,70956.0,0,100.0,Excellent
+464,Customer_464,Boston Financial,764,Employed,2,70968.0,0,100.0,Excellent
+465,Customer_465,Downtown Metro,765,Self-Employed,2,70980.0,0,100.0,Excellent
+466,Customer_466,Midtown Plaza,766,Self-Employed,2,70992.0,0,100.0,Excellent
+467,Customer_467,Chicago Central,767,Self-Employed,2,71004.0,0,100.0,Excellent
+468,Customer_468,Texas Hub,768,Retired,2,71016.0,0,100.0,Excellent
+469,Customer_469,Silicon Valley,769,Retired,2,71028.0,0,100.0,Excellent
+471,Customer_471,Miami Beach,771,Employed,2,71052.0,0,100.0,Excellent
+472,Customer_472,Boston Financial,772,Employed,2,71064.0,0,100.0,Excellent
+473,Customer_473,Downtown Metro,773,Employed,2,71076.0,0,100.0,Excellent
+474,Customer_474,Midtown Plaza,774,Employed,2,71088.0,0,100.0,Excellent
+475,Customer_475,Chicago Central,775,Self-Employed,1,38850.0,0,100.0,Excellent
+476,Customer_476,Texas Hub,776,Self-Employed,2,71112.0,0,100.0,Excellent
+477,Customer_477,Silicon Valley,777,Self-Employed,2,71124.0,0,100.0,Excellent
+478,Customer_478,West Coast Tower,778,Retired,2,71136.0,0,100.0,Excellent
+479,Customer_479,Miami Beach,779,Retired,2,71148.0,0,100.0,Excellent
+481,Customer_481,Downtown Metro,781,Employed,2,71172.0,0,100.0,Excellent
+482,Customer_482,Midtown Plaza,782,Employed,2,71184.0,0,100.0,Excellent
+483,Customer_483,Chicago Central,783,Employed,2,71196.0,0,100.0,Excellent
+484,Customer_484,Texas Hub,784,Employed,2,71208.0,0,100.0,Excellent
+485,Customer_485,Silicon Valley,785,Self-Employed,1,32310.0,0,100.0,Excellent
+486,Customer_486,West Coast Tower,786,Self-Employed,2,71232.0,0,100.0,Excellent
+487,Customer_487,Miami Beach,787,Self-Employed,2,71244.0,0,100.0,Excellent
+488,Customer_488,Boston Financial,788,Retired,2,71256.0,0,100.0,Excellent
+489,Customer_489,Downtown Metro,789,Retired,2,71268.0,0,100.0,Excellent
+491,Customer_491,Chicago Central,791,Employed,2,71292.0,0,100.0,Excellent
+492,Customer_492,Texas Hub,792,Employed,2,71304.0,0,100.0,Excellent
+493,Customer_493,Silicon Valley,793,Employed,2,71316.0,0,100.0,Excellent
+494,Customer_494,West Coast Tower,794,Employed,2,71328.0,0,100.0,Excellent
+495,Customer_495,Miami Beach,795,Self-Employed,2,71340.0,0,100.0,Excellent
+496,Customer_496,Boston Financial,796,Self-Employed,2,71352.0,0,100.0,Excellent
+497,Customer_497,Downtown Metro,797,Self-Employed,2,71364.0,0,100.0,Excellent
+498,Customer_498,Midtown Plaza,798,Retired,2,71376.0,0,100.0,Excellent
+499,Customer_499,Chicago Central,799,Retired,2,71388.0,0,100.0,Excellent
+508,Customer_508,Texas Hub,808,Retired,1,32448.0,0,100.0,Excellent
+509,Customer_509,Silicon Valley,809,Retired,1,32454.0,0,100.0,Excellent
+511,Customer_511,Miami Beach,811,Employed,1,32466.0,0,100.0,Excellent
+512,Customer_512,Boston Financial,812,Employed,1,32472.0,0,100.0,Excellent
+513,Customer_513,Downtown Metro,813,Employed,1,32478.0,0,100.0,Excellent
+514,Customer_514,Midtown Plaza,814,Employed,1,32484.0,0,100.0,Excellent
+515,Customer_515,Chicago Central,815,Self-Employed,1,32490.0,0,100.0,Excellent
+516,Customer_516,Texas Hub,816,Self-Employed,1,32496.0,0,100.0,Excellent
+517,Customer_517,Silicon Valley,817,Self-Employed,1,32502.0,0,100.0,Excellent
+518,Customer_518,West Coast Tower,818,Retired,1,32508.0,0,100.0,Excellent
+519,Customer_519,Miami Beach,819,Retired,1,32514.0,0,100.0,Excellent
+521,Customer_521,Downtown Metro,821,Employed,1,32526.0,0,100.0,Excellent
+522,Customer_522,Midtown Plaza,822,Employed,1,32532.0,0,100.0,Excellent
+523,Customer_523,Chicago Central,823,Employed,1,32538.0,0,100.0,Excellent
+524,Customer_524,Texas Hub,824,Employed,1,32544.0,0,100.0,Excellent
+525,Customer_525,Silicon Valley,825,Self-Employed,1,32550.0,0,100.0,Excellent
+526,Customer_526,West Coast Tower,826,Self-Employed,1,32556.0,0,100.0,Excellent
+527,Customer_527,Miami Beach,827,Self-Employed,1,32562.0,0,100.0,Excellent
+528,Customer_528,Boston Financial,828,Retired,1,32568.0,0,100.0,Excellent
+529,Customer_529,Downtown Metro,829,Retired,1,32574.0,0,100.0,Excellent
+531,Customer_531,Chicago Central,831,Employed,1,32586.0,0,100.0,Excellent
+532,Customer_532,Texas Hub,832,Employed,1,32592.0,0,100.0,Excellent
+533,Customer_533,Silicon Valley,833,Employed,1,32598.0,0,100.0,Excellent
+534,Customer_534,West Coast Tower,834,Employed,1,32604.0,0,100.0,Excellent
+536,Customer_536,Boston Financial,836,Self-Employed,1,32616.0,0,100.0,Excellent
+537,Customer_537,Downtown Metro,837,Self-Employed,1,32622.0,0,100.0,Excellent
+538,Customer_538,Midtown Plaza,838,Retired,1,32628.0,0,100.0,Excellent
+539,Customer_539,Chicago Central,839,Retired,1,32634.0,0,100.0,Excellent
+541,Customer_541,Silicon Valley,841,Employed,1,32646.0,0,100.0,Excellent
+542,Customer_542,West Coast Tower,842,Employed,1,32652.0,0,100.0,Excellent
+543,Customer_543,Miami Beach,843,Employed,1,32658.0,0,100.0,Excellent
+544,Customer_544,Boston Financial,844,Employed,1,32664.0,0,100.0,Excellent
+545,Customer_545,Downtown Metro,845,Self-Employed,1,32670.0,0,100.0,Excellent
+546,Customer_546,Midtown Plaza,846,Self-Employed,1,32676.0,0,100.0,Excellent
+547,Customer_547,Chicago Central,847,Self-Employed,1,32682.0,0,100.0,Excellent
+548,Customer_548,Texas Hub,848,Retired,1,32688.0,0,100.0,Excellent
+549,Customer_549,Silicon Valley,849,Retired,1,32694.0,0,100.0,Excellent
+558,Customer_558,West Coast Tower,858,Retired,1,32748.0,0,100.0,Excellent
+559,Customer_559,Miami Beach,859,Retired,1,32754.0,0,100.0,Excellent
+561,Customer_561,Downtown Metro,861,Employed,1,32766.0,0,100.0,Excellent
+562,Customer_562,Midtown Plaza,862,Employed,1,32772.0,0,100.0,Excellent
+563,Customer_563,Chicago Central,863,Employed,1,32778.0,0,100.0,Excellent
+564,Customer_564,Texas Hub,864,Employed,1,32784.0,0,100.0,Excellent
+566,Customer_566,West Coast Tower,866,Self-Employed,1,32796.0,0,100.0,Excellent
+567,Customer_567,Miami Beach,867,Self-Employed,1,32802.0,0,100.0,Excellent
+568,Customer_568,Boston Financial,868,Retired,1,32808.0,0,100.0,Excellent
+569,Customer_569,Downtown Metro,869,Retired,1,32814.0,0,100.0,Excellent
+571,Customer_571,Chicago Central,871,Employed,1,32826.0,0,100.0,Excellent
+572,Customer_572,Texas Hub,872,Employed,1,32832.0,0,100.0,Excellent
+573,Customer_573,Silicon Valley,873,Employed,1,32838.0,0,100.0,Excellent
+574,Customer_574,West Coast Tower,874,Employed,1,32844.0,0,100.0,Excellent
+575,Customer_575,Miami Beach,875,Self-Employed,1,32850.0,0,100.0,Excellent
+576,Customer_576,Boston Financial,876,Self-Employed,1,32856.0,0,100.0,Excellent
+577,Customer_577,Downtown Metro,877,Self-Employed,1,32862.0,0,100.0,Excellent
+578,Customer_578,Midtown Plaza,878,Retired,1,32868.0,0,100.0,Excellent
+579,Customer_579,Chicago Central,879,Retired,1,32874.0,0,100.0,Excellent
+581,Customer_581,Silicon Valley,881,Employed,1,32886.0,0,100.0,Excellent
+582,Customer_582,West Coast Tower,882,Employed,1,32892.0,0,100.0,Excellent
+583,Customer_583,Miami Beach,883,Employed,1,32898.0,0,100.0,Excellent
+584,Customer_584,Boston Financial,884,Employed,1,32904.0,0,100.0,Excellent
+585,Customer_585,Downtown Metro,885,Self-Employed,1,32910.0,0,100.0,Excellent
+586,Customer_586,Midtown Plaza,886,Self-Employed,1,32916.0,0,100.0,Excellent
+587,Customer_587,Chicago Central,887,Self-Employed,1,32922.0,0,100.0,Excellent
+588,Customer_588,Texas Hub,888,Retired,1,32928.0,0,100.0,Excellent
+589,Customer_589,Silicon Valley,889,Retired,1,32934.0,0,100.0,Excellent
+591,Customer_591,Miami Beach,891,Employed,1,32946.0,0,100.0,Excellent
+592,Customer_592,Boston Financial,892,Employed,1,32952.0,0,100.0,Excellent
+593,Customer_593,Downtown Metro,893,Employed,1,32958.0,0,100.0,Excellent
+594,Customer_594,Midtown Plaza,894,Employed,1,32964.0,0,100.0,Excellent
+596,Customer_596,Texas Hub,896,Self-Employed,1,32976.0,0,100.0,Excellent
+597,Customer_597,Silicon Valley,897,Self-Employed,1,32982.0,0,100.0,Excellent
+598,Customer_598,West Coast Tower,898,Retired,1,32988.0,0,100.0,Excellent
+599,Customer_599,Miami Beach,899,Retired,1,32994.0,0,100.0,Excellent
+608,Customer_608,Boston Financial,608,Retired,1,33048.0,0,100.0,Fair
+609,Customer_609,Downtown Metro,609,Retired,1,33054.0,0,100.0,Fair
+611,Customer_611,Chicago Central,611,Employed,1,33066.0,0,100.0,Fair
+612,Customer_612,Texas Hub,612,Employed,1,33072.0,0,100.0,Fair
+613,Customer_613,Silicon Valley,613,Employed,1,33078.0,0,100.0,Fair
+614,Customer_614,West Coast Tower,614,Employed,1,33084.0,0,100.0,Fair
+615,Customer_615,Miami Beach,615,Self-Employed,1,33090.0,0,100.0,Fair
+616,Customer_616,Boston Financial,616,Self-Employed,1,33096.0,0,100.0,Fair
+617,Customer_617,Downtown Metro,617,Self-Employed,1,33102.0,0,100.0,Fair
+618,Customer_618,Midtown Plaza,618,Retired,1,33108.0,0,100.0,Fair
+619,Customer_619,Chicago Central,619,Retired,1,33114.0,0,100.0,Fair
+621,Customer_621,Silicon Valley,621,Employed,1,33126.0,0,100.0,Fair
+622,Customer_622,West Coast Tower,622,Employed,1,33132.0,0,100.0,Fair
+623,Customer_623,Miami Beach,623,Employed,1,33138.0,0,100.0,Fair
+624,Customer_624,Boston Financial,624,Employed,1,33144.0,0,100.0,Fair
+626,Customer_626,Midtown Plaza,626,Self-Employed,1,33156.0,0,100.0,Fair
+627,Customer_627,Chicago Central,627,Self-Employed,1,33162.0,0,100.0,Fair
+628,Customer_628,Texas Hub,628,Retired,1,33168.0,0,100.0,Fair
+629,Customer_629,Silicon Valley,629,Retired,1,33174.0,0,100.0,Fair
+631,Customer_631,Miami Beach,631,Employed,1,33186.0,0,100.0,Fair
+632,Customer_632,Boston Financial,632,Employed,1,33192.0,0,100.0,Fair
+633,Customer_633,Downtown Metro,633,Employed,1,33198.0,0,100.0,Fair
+634,Customer_634,Midtown Plaza,634,Employed,1,33204.0,0,100.0,Fair
+635,Customer_635,Chicago Central,635,Self-Employed,1,33210.0,0,100.0,Fair
+636,Customer_636,Texas Hub,636,Self-Employed,1,33216.0,0,100.0,Fair
+637,Customer_637,Silicon Valley,637,Self-Employed,1,33222.0,0,100.0,Fair
+638,Customer_638,West Coast Tower,638,Retired,1,33228.0,0,100.0,Fair
+639,Customer_639,Miami Beach,639,Retired,1,33234.0,0,100.0,Fair
+641,Customer_641,Downtown Metro,641,Employed,1,33246.0,0,100.0,Fair
+642,Customer_642,Midtown Plaza,642,Employed,1,33252.0,0,100.0,Fair
+643,Customer_643,Chicago Central,643,Employed,1,33258.0,0,100.0,Fair
+644,Customer_644,Texas Hub,644,Employed,1,33264.0,0,100.0,Fair
+645,Customer_645,Silicon Valley,645,Self-Employed,1,33270.0,0,100.0,Fair
+646,Customer_646,West Coast Tower,646,Self-Employed,1,33276.0,0,100.0,Fair
+647,Customer_647,Miami Beach,647,Self-Employed,1,33282.0,0,100.0,Fair
+648,Customer_648,Boston Financial,648,Retired,1,33288.0,0,100.0,Fair
+649,Customer_649,Downtown Metro,649,Retired,1,33294.0,0,100.0,Fair
+658,Customer_658,Midtown Plaza,658,Retired,1,33348.0,0,100.0,Fair
+659,Customer_659,Chicago Central,659,Retired,1,33354.0,0,100.0,Fair
+661,Customer_661,Silicon Valley,661,Employed,1,33366.0,0,100.0,Fair
+662,Customer_662,West Coast Tower,662,Employed,1,33372.0,0,100.0,Fair
+663,Customer_663,Miami Beach,663,Employed,1,33378.0,0,100.0,Fair
+664,Customer_664,Boston Financial,664,Employed,1,33384.0,0,100.0,Fair
+665,Customer_665,Downtown Metro,665,Self-Employed,1,33390.0,0,100.0,Fair
+666,Customer_666,Midtown Plaza,666,Self-Employed,1,33396.0,0,100.0,Fair
+667,Customer_667,Chicago Central,667,Self-Employed,1,33402.0,0,100.0,Fair
+668,Customer_668,Texas Hub,668,Retired,1,33408.0,0,100.0,Fair
+669,Customer_669,Silicon Valley,669,Retired,1,33414.0,0,100.0,Fair
+671,Customer_671,Miami Beach,671,Employed,1,33426.0,0,100.0,Fair
+672,Customer_672,Boston Financial,672,Employed,1,33432.0,0,100.0,Fair
+673,Customer_673,Downtown Metro,673,Employed,1,33438.0,0,100.0,Fair
+674,Customer_674,Midtown Plaza,674,Employed,1,33444.0,0,100.0,Fair
+675,Customer_675,Chicago Central,675,Self-Employed,1,33450.0,0,100.0,Fair
+676,Customer_676,Texas Hub,676,Self-Employed,1,33456.0,0,100.0,Fair
+677,Customer_677,Silicon Valley,677,Self-Employed,1,33462.0,0,100.0,Fair
+678,Customer_678,West Coast Tower,678,Retired,1,33468.0,0,100.0,Fair
+679,Customer_679,Miami Beach,679,Retired,1,33474.0,0,100.0,Fair
+681,Customer_681,Downtown Metro,681,Employed,1,33486.0,0,100.0,Fair
+682,Customer_682,Midtown Plaza,682,Employed,1,33492.0,0,100.0,Fair
+683,Customer_683,Chicago Central,683,Employed,1,33498.0,0,100.0,Fair
+684,Customer_684,Texas Hub,684,Employed,1,33504.0,0,100.0,Fair
+686,Customer_686,West Coast Tower,686,Self-Employed,1,33516.0,0,100.0,Fair
+687,Customer_687,Miami Beach,687,Self-Employed,1,33522.0,0,100.0,Fair
+688,Customer_688,Boston Financial,688,Retired,1,33528.0,0,100.0,Fair
+689,Customer_689,Downtown Metro,689,Retired,1,33534.0,0,100.0,Fair
+691,Customer_691,Chicago Central,691,Employed,1,33546.0,0,100.0,Fair
+692,Customer_692,Texas Hub,692,Employed,1,33552.0,0,100.0,Fair
+693,Customer_693,Silicon Valley,693,Employed,1,33558.0,0,100.0,Fair
+694,Customer_694,West Coast Tower,694,Employed,1,33564.0,0,100.0,Fair
+695,Customer_695,Miami Beach,695,Self-Employed,1,33570.0,0,100.0,Fair
+696,Customer_696,Boston Financial,696,Self-Employed,1,33576.0,0,100.0,Fair
+697,Customer_697,Downtown Metro,697,Self-Employed,1,33582.0,0,100.0,Fair
+698,Customer_698,Midtown Plaza,698,Retired,1,33588.0,0,100.0,Fair
+699,Customer_699,Chicago Central,699,Retired,1,33594.0,0,100.0,Fair
+708,Customer_708,Texas Hub,708,Retired,1,33648.0,0,100.0,Good
+709,Customer_709,Silicon Valley,709,Retired,1,33654.0,0,100.0,Good
+711,Customer_711,Miami Beach,711,Employed,1,33666.0,0,100.0,Good
+712,Customer_712,Boston Financial,712,Employed,1,33672.0,0,100.0,Good
+713,Customer_713,Downtown Metro,713,Employed,1,33678.0,0,100.0,Good
+714,Customer_714,Midtown Plaza,714,Employed,1,33684.0,0,100.0,Good
+716,Customer_716,Texas Hub,716,Self-Employed,1,33696.0,0,100.0,Good
+717,Customer_717,Silicon Valley,717,Self-Employed,1,33702.0,0,100.0,Good
+718,Customer_718,West Coast Tower,718,Retired,1,33708.0,0,100.0,Good
+719,Customer_719,Miami Beach,719,Retired,1,33714.0,0,100.0,Good
+721,Customer_721,Downtown Metro,721,Employed,1,33726.0,0,100.0,Good
+722,Customer_722,Midtown Plaza,722,Employed,1,33732.0,0,100.0,Good
+723,Customer_723,Chicago Central,723,Employed,1,33738.0,0,100.0,Good
+724,Customer_724,Texas Hub,724,Employed,1,33744.0,0,100.0,Good
+725,Customer_725,Silicon Valley,725,Self-Employed,1,33750.0,0,100.0,Good
+726,Customer_726,West Coast Tower,726,Self-Employed,1,33756.0,0,100.0,Good
+727,Customer_727,Miami Beach,727,Self-Employed,1,33762.0,0,100.0,Good
+728,Customer_728,Boston Financial,728,Retired,1,33768.0,0,100.0,Good
+729,Customer_729,Downtown Metro,729,Retired,1,33774.0,0,100.0,Good
+731,Customer_731,Chicago Central,731,Employed,1,33786.0,0,100.0,Good
+732,Customer_732,Texas Hub,732,Employed,1,33792.0,0,100.0,Good
+733,Customer_733,Silicon Valley,733,Employed,1,33798.0,0,100.0,Good
+734,Customer_734,West Coast Tower,734,Employed,1,33804.0,0,100.0,Good
+735,Customer_735,Miami Beach,735,Self-Employed,1,33810.0,0,100.0,Good
+736,Customer_736,Boston Financial,736,Self-Employed,1,33816.0,0,100.0,Good
+737,Customer_737,Downtown Metro,737,Self-Employed,1,33822.0,0,100.0,Good
+738,Customer_738,Midtown Plaza,738,Retired,1,33828.0,0,100.0,Good
+739,Customer_739,Chicago Central,739,Retired,1,33834.0,0,100.0,Good
+741,Customer_741,Silicon Valley,741,Employed,1,33846.0,0,100.0,Good
+742,Customer_742,West Coast Tower,742,Employed,1,33852.0,0,100.0,Good
+743,Customer_743,Miami Beach,743,Employed,1,33858.0,0,100.0,Good
+744,Customer_744,Boston Financial,744,Employed,1,33864.0,0,100.0,Good
+746,Customer_746,Midtown Plaza,746,Self-Employed,1,33876.0,0,100.0,Good
+747,Customer_747,Chicago Central,747,Self-Employed,1,33882.0,0,100.0,Good
+748,Customer_748,Texas Hub,748,Retired,1,33888.0,0,100.0,Good
+749,Customer_749,Silicon Valley,749,Retired,1,33894.0,0,100.0,Good
+758,Customer_758,West Coast Tower,758,Retired,1,33948.0,0,100.0,Excellent
+759,Customer_759,Miami Beach,759,Retired,1,33954.0,0,100.0,Excellent
+761,Customer_761,Downtown Metro,761,Employed,1,33966.0,0,100.0,Excellent
+762,Customer_762,Midtown Plaza,762,Employed,1,33972.0,0,100.0,Excellent
+763,Customer_763,Chicago Central,763,Employed,1,33978.0,0,100.0,Excellent
+764,Customer_764,Texas Hub,764,Employed,1,33984.0,0,100.0,Excellent
+765,Customer_765,Silicon Valley,765,Self-Employed,1,33990.0,0,100.0,Excellent
+766,Customer_766,West Coast Tower,766,Self-Employed,1,33996.0,0,100.0,Excellent
+767,Customer_767,Miami Beach,767,Self-Employed,1,34002.0,0,100.0,Excellent
+768,Customer_768,Boston Financial,768,Retired,1,34008.0,0,100.0,Excellent
+769,Customer_769,Downtown Metro,769,Retired,1,34014.0,0,100.0,Excellent
+771,Customer_771,Chicago Central,771,Employed,1,34026.0,0,100.0,Excellent
+772,Customer_772,Texas Hub,772,Employed,1,34032.0,0,100.0,Excellent
+773,Customer_773,Silicon Valley,773,Employed,1,34038.0,0,100.0,Excellent
+774,Customer_774,West Coast Tower,774,Employed,1,34044.0,0,100.0,Excellent
+776,Customer_776,Boston Financial,776,Self-Employed,1,34056.0,0,100.0,Excellent
+777,Customer_777,Downtown Metro,777,Self-Employed,1,34062.0,0,100.0,Excellent
+778,Customer_778,Midtown Plaza,778,Retired,1,34068.0,0,100.0,Excellent
+779,Customer_779,Chicago Central,779,Retired,1,34074.0,0,100.0,Excellent
+781,Customer_781,Silicon Valley,781,Employed,1,34086.0,0,100.0,Excellent
+782,Customer_782,West Coast Tower,782,Employed,1,34092.0,0,100.0,Excellent
+783,Customer_783,Miami Beach,783,Employed,1,34098.0,0,100.0,Excellent
+784,Customer_784,Boston Financial,784,Employed,1,34104.0,0,100.0,Excellent
+785,Customer_785,Downtown Metro,785,Self-Employed,1,34110.0,0,100.0,Excellent
+786,Customer_786,Midtown Plaza,786,Self-Employed,1,34116.0,0,100.0,Excellent
+787,Customer_787,Chicago Central,787,Self-Employed,1,34122.0,0,100.0,Excellent
+788,Customer_788,Texas Hub,788,Retired,1,34128.0,0,100.0,Excellent
+789,Customer_789,Silicon Valley,789,Retired,1,34134.0,0,100.0,Excellent
+791,Customer_791,Miami Beach,791,Employed,1,34146.0,0,100.0,Excellent
+792,Customer_792,Boston Financial,792,Employed,1,34152.0,0,100.0,Excellent
+793,Customer_793,Downtown Metro,793,Employed,1,34158.0,0,100.0,Excellent
+794,Customer_794,Midtown Plaza,794,Employed,1,34164.0,0,100.0,Excellent
+795,Customer_795,Chicago Central,795,Self-Employed,1,34170.0,0,100.0,Excellent
+796,Customer_796,Texas Hub,796,Self-Employed,1,34176.0,0,100.0,Excellent
+797,Customer_797,Silicon Valley,797,Self-Employed,1,34182.0,0,100.0,Excellent
+798,Customer_798,West Coast Tower,798,Retired,1,34188.0,0,100.0,Excellent
+799,Customer_799,Miami Beach,799,Retired,1,34194.0,0,100.0,Excellent
+808,Customer_808,Boston Financial,808,Retired,1,34248.0,0,100.0,Excellent
+809,Customer_809,Downtown Metro,809,Retired,1,34254.0,0,100.0,Excellent
+811,Customer_811,Chicago Central,811,Employed,1,34266.0,0,100.0,Excellent
+812,Customer_812,Texas Hub,812,Employed,1,34272.0,0,100.0,Excellent
+813,Customer_813,Silicon Valley,813,Employed,1,34278.0,0,100.0,Excellent
+814,Customer_814,West Coast Tower,814,Employed,1,34284.0,0,100.0,Excellent
+815,Customer_815,Miami Beach,815,Self-Employed,1,34290.0,0,100.0,Excellent
+816,Customer_816,Boston Financial,816,Self-Employed,1,34296.0,0,100.0,Excellent
+817,Customer_817,Downtown Metro,817,Self-Employed,1,34302.0,0,100.0,Excellent
+818,Customer_818,Midtown Plaza,818,Retired,1,34308.0,0,100.0,Excellent
+819,Customer_819,Chicago Central,819,Retired,1,34314.0,0,100.0,Excellent
+821,Customer_821,Silicon Valley,821,Employed,1,34326.0,0,100.0,Excellent
+822,Customer_822,West Coast Tower,822,Employed,1,34332.0,0,100.0,Excellent
+823,Customer_823,Miami Beach,823,Employed,1,34338.0,0,100.0,Excellent
+824,Customer_824,Boston Financial,824,Employed,1,34344.0,0,100.0,Excellent
+825,Customer_825,Downtown Metro,825,Self-Employed,1,34350.0,0,100.0,Excellent
+826,Customer_826,Midtown Plaza,826,Self-Employed,1,34356.0,0,100.0,Excellent
+827,Customer_827,Chicago Central,827,Self-Employed,1,34362.0,0,100.0,Excellent
+828,Customer_828,Texas Hub,828,Retired,1,34368.0,0,100.0,Excellent
+829,Customer_829,Silicon Valley,829,Retired,1,34374.0,0,100.0,Excellent
+831,Customer_831,Miami Beach,831,Employed,1,34386.0,0,100.0,Excellent
+832,Customer_832,Boston Financial,832,Employed,1,34392.0,0,100.0,Excellent
+833,Customer_833,Downtown Metro,833,Employed,1,34398.0,0,100.0,Excellent
+834,Customer_834,Midtown Plaza,834,Employed,1,34404.0,0,100.0,Excellent
+836,Customer_836,Texas Hub,836,Self-Employed,1,34416.0,0,100.0,Excellent
+837,Customer_837,Silicon Valley,837,Self-Employed,1,34422.0,0,100.0,Excellent
+838,Customer_838,West Coast Tower,838,Retired,1,34428.0,0,100.0,Excellent
+839,Customer_839,Miami Beach,839,Retired,1,34434.0,0,100.0,Excellent
+841,Customer_841,Downtown Metro,841,Employed,1,34446.0,0,100.0,Excellent
+842,Customer_842,Midtown Plaza,842,Employed,1,34452.0,0,100.0,Excellent
+843,Customer_843,Chicago Central,843,Employed,1,34458.0,0,100.0,Excellent
+844,Customer_844,Texas Hub,844,Employed,1,34464.0,0,100.0,Excellent
+845,Customer_845,Silicon Valley,845,Self-Employed,1,34470.0,0,100.0,Excellent
+846,Customer_846,West Coast Tower,846,Self-Employed,1,34476.0,0,100.0,Excellent
+847,Customer_847,Miami Beach,847,Self-Employed,1,34482.0,0,100.0,Excellent
+848,Customer_848,Boston Financial,848,Retired,1,34488.0,0,100.0,Excellent
+849,Customer_849,Downtown Metro,849,Retired,1,34494.0,0,100.0,Excellent
+858,Customer_858,Midtown Plaza,858,Retired,1,34548.0,0,100.0,Excellent
+859,Customer_859,Chicago Central,859,Retired,1,34554.0,0,100.0,Excellent
+861,Customer_861,Silicon Valley,861,Employed,1,34566.0,0,100.0,Excellent
+862,Customer_862,West Coast Tower,862,Employed,1,34572.0,0,100.0,Excellent
+863,Customer_863,Miami Beach,863,Employed,1,34578.0,0,100.0,Excellent
+864,Customer_864,Boston Financial,864,Employed,1,34584.0,0,100.0,Excellent
+866,Customer_866,Midtown Plaza,866,Self-Employed,1,34596.0,0,100.0,Excellent
+867,Customer_867,Chicago Central,867,Self-Employed,1,34602.0,0,100.0,Excellent
+868,Customer_868,Texas Hub,868,Retired,1,34608.0,0,100.0,Excellent
+869,Customer_869,Silicon Valley,869,Retired,1,34614.0,0,100.0,Excellent
+871,Customer_871,Miami Beach,871,Employed,1,34626.0,0,100.0,Excellent
+872,Customer_872,Boston Financial,872,Employed,1,34632.0,0,100.0,Excellent
+873,Customer_873,Downtown Metro,873,Employed,1,34638.0,0,100.0,Excellent
+874,Customer_874,Midtown Plaza,874,Employed,1,34644.0,0,100.0,Excellent
+875,Customer_875,Chicago Central,875,Self-Employed,1,34650.0,0,100.0,Excellent
+876,Customer_876,Texas Hub,876,Self-Employed,1,34656.0,0,100.0,Excellent
+877,Customer_877,Silicon Valley,877,Self-Employed,1,34662.0,0,100.0,Excellent
+878,Customer_878,West Coast Tower,878,Retired,1,34668.0,0,100.0,Excellent
+879,Customer_879,Miami Beach,879,Retired,1,34674.0,0,100.0,Excellent
+881,Customer_881,Downtown Metro,881,Employed,1,34686.0,0,100.0,Excellent
+882,Customer_882,Midtown Plaza,882,Employed,1,34692.0,0,100.0,Excellent
+883,Customer_883,Chicago Central,883,Employed,1,34698.0,0,100.0,Excellent
+884,Customer_884,Texas Hub,884,Employed,1,34704.0,0,100.0,Excellent
+885,Customer_885,Silicon Valley,885,Self-Employed,1,34710.0,0,100.0,Excellent
+886,Customer_886,West Coast Tower,886,Self-Employed,1,34716.0,0,100.0,Excellent
+887,Customer_887,Miami Beach,887,Self-Employed,1,34722.0,0,100.0,Excellent
+888,Customer_888,Boston Financial,888,Retired,1,34728.0,0,100.0,Excellent
+889,Customer_889,Downtown Metro,889,Retired,1,34734.0,0,100.0,Excellent
+891,Customer_891,Chicago Central,891,Employed,1,34746.0,0,100.0,Excellent
+892,Customer_892,Texas Hub,892,Employed,1,34752.0,0,100.0,Excellent
+893,Customer_893,Silicon Valley,893,Employed,1,34758.0,0,100.0,Excellent
+894,Customer_894,West Coast Tower,894,Employed,1,34764.0,0,100.0,Excellent
+896,Customer_896,Boston Financial,896,Self-Employed,1,34776.0,0,100.0,Excellent
+897,Customer_897,Downtown Metro,897,Self-Employed,1,34782.0,0,100.0,Excellent
+898,Customer_898,Midtown Plaza,898,Retired,1,34788.0,0,100.0,Excellent
+899,Customer_899,Chicago Central,899,Retired,1,34794.0,0,100.0,Excellent
+908,Customer_908,Texas Hub,608,Retired,1,34848.0,0,100.0,Fair
+909,Customer_909,Silicon Valley,609,Retired,1,34854.0,0,100.0,Fair
+911,Customer_911,Miami Beach,611,Employed,1,34866.0,0,100.0,Fair
+912,Customer_912,Boston Financial,612,Employed,1,34872.0,0,100.0,Fair
+913,Customer_913,Downtown Metro,613,Employed,1,34878.0,0,100.0,Fair
+914,Customer_914,Midtown Plaza,614,Employed,1,34884.0,0,100.0,Fair
+915,Customer_915,Chicago Central,615,Self-Employed,1,34890.0,0,100.0,Fair
+916,Customer_916,Texas Hub,616,Self-Employed,1,34896.0,0,100.0,Fair
+917,Customer_917,Silicon Valley,617,Self-Employed,1,34902.0,0,100.0,Fair
+918,Customer_918,West Coast Tower,618,Retired,1,34908.0,0,100.0,Fair
+919,Customer_919,Miami Beach,619,Retired,1,34914.0,0,100.0,Fair
+921,Customer_921,Downtown Metro,621,Employed,1,34926.0,0,100.0,Fair
+922,Customer_922,Midtown Plaza,622,Employed,1,34932.0,0,100.0,Fair
+923,Customer_923,Chicago Central,623,Employed,1,34938.0,0,100.0,Fair
+924,Customer_924,Texas Hub,624,Employed,1,34944.0,0,100.0,Fair
+926,Customer_926,West Coast Tower,626,Self-Employed,1,34956.0,0,100.0,Fair
+927,Customer_927,Miami Beach,627,Self-Employed,1,34962.0,0,100.0,Fair
+928,Customer_928,Boston Financial,628,Retired,1,34968.0,0,100.0,Fair
+929,Customer_929,Downtown Metro,629,Retired,1,34974.0,0,100.0,Fair
+931,Customer_931,Chicago Central,631,Employed,1,34986.0,0,100.0,Fair
+932,Customer_932,Texas Hub,632,Employed,1,34992.0,0,100.0,Fair
+933,Customer_933,Silicon Valley,633,Employed,1,34998.0,0,100.0,Fair
+934,Customer_934,West Coast Tower,634,Employed,1,35004.0,0,100.0,Fair
+935,Customer_935,Miami Beach,635,Self-Employed,1,35010.0,0,100.0,Fair
+936,Customer_936,Boston Financial,636,Self-Employed,1,35016.0,0,100.0,Fair
+937,Customer_937,Downtown Metro,637,Self-Employed,1,35022.0,0,100.0,Fair
+938,Customer_938,Midtown Plaza,638,Retired,1,35028.0,0,100.0,Fair
+939,Customer_939,Chicago Central,639,Retired,1,35034.0,0,100.0,Fair
+941,Customer_941,Silicon Valley,641,Employed,1,35046.0,0,100.0,Fair
+942,Customer_942,West Coast Tower,642,Employed,1,35052.0,0,100.0,Fair
+943,Customer_943,Miami Beach,643,Employed,1,35058.0,0,100.0,Fair
+944,Customer_944,Boston Financial,644,Employed,1,35064.0,0,100.0,Fair
+945,Customer_945,Downtown Metro,645,Self-Employed,1,35070.0,0,100.0,Fair
+946,Customer_946,Midtown Plaza,646,Self-Employed,1,35076.0,0,100.0,Fair
+947,Customer_947,Chicago Central,647,Self-Employed,1,35082.0,0,100.0,Fair
+948,Customer_948,Texas Hub,648,Retired,1,35088.0,0,100.0,Fair
+949,Customer_949,Silicon Valley,649,Retired,1,35094.0,0,100.0,Fair
+958,Customer_958,West Coast Tower,658,Retired,1,35148.0,0,100.0,Fair
+959,Customer_959,Miami Beach,659,Retired,1,35154.0,0,100.0,Fair
+961,Customer_961,Downtown Metro,661,Employed,1,35166.0,0,100.0,Fair
+962,Customer_962,Midtown Plaza,662,Employed,1,35172.0,0,100.0,Fair
+963,Customer_963,Chicago Central,663,Employed,1,35178.0,0,100.0,Fair
+964,Customer_964,Texas Hub,664,Employed,1,35184.0,0,100.0,Fair
+965,Customer_965,Silicon Valley,665,Self-Employed,1,35190.0,0,100.0,Fair
+966,Customer_966,West Coast Tower,666,Self-Employed,1,35196.0,0,100.0,Fair
+967,Customer_967,Miami Beach,667,Self-Employed,1,35202.0,0,100.0,Fair
+968,Customer_968,Boston Financial,668,Retired,1,35208.0,0,100.0,Fair
+969,Customer_969,Downtown Metro,669,Retired,1,35214.0,0,100.0,Fair
+971,Customer_971,Chicago Central,671,Employed,1,35226.0,0,100.0,Fair
+972,Customer_972,Texas Hub,672,Employed,1,35232.0,0,100.0,Fair
+973,Customer_973,Silicon Valley,673,Employed,1,35238.0,0,100.0,Fair
+974,Customer_974,West Coast Tower,674,Employed,1,35244.0,0,100.0,Fair
+975,Customer_975,Miami Beach,675,Self-Employed,1,35250.0,0,100.0,Fair
+976,Customer_976,Boston Financial,676,Self-Employed,1,35256.0,0,100.0,Fair
+977,Customer_977,Downtown Metro,677,Self-Employed,1,35262.0,0,100.0,Fair
+978,Customer_978,Midtown Plaza,678,Retired,1,35268.0,0,100.0,Fair
+979,Customer_979,Chicago Central,679,Retired,1,35274.0,0,100.0,Fair
+981,Customer_981,Silicon Valley,681,Employed,1,35286.0,0,100.0,Fair
+982,Customer_982,West Coast Tower,682,Employed,1,35292.0,0,100.0,Fair
+983,Customer_983,Miami Beach,683,Employed,1,35298.0,0,100.0,Fair
+984,Customer_984,Boston Financial,684,Employed,1,35304.0,0,100.0,Fair
+986,Customer_986,Midtown Plaza,686,Self-Employed,1,35316.0,0,100.0,Fair
+987,Customer_987,Chicago Central,687,Self-Employed,1,35322.0,0,100.0,Fair
+988,Customer_988,Texas Hub,688,Retired,1,35328.0,0,100.0,Fair
+989,Customer_989,Silicon Valley,689,Retired,1,35334.0,0,100.0,Fair
+991,Customer_991,Miami Beach,691,Employed,1,35346.0,0,100.0,Fair
+992,Customer_992,Boston Financial,692,Employed,1,35352.0,0,100.0,Fair
+993,Customer_993,Downtown Metro,693,Employed,1,35358.0,0,100.0,Fair
+994,Customer_994,Midtown Plaza,694,Employed,1,35364.0,0,100.0,Fair
+995,Customer_995,Chicago Central,695,Self-Employed,1,35370.0,0,100.0,Fair
+996,Customer_996,Texas Hub,696,Self-Employed,1,35376.0,0,100.0,Fair
+997,Customer_997,Silicon Valley,697,Self-Employed,1,35382.0,0,100.0,Fair
+998,Customer_998,West Coast Tower,698,Retired,1,35388.0,0,100.0,Fair
+999,Customer_999,Miami Beach,699,Retired,1,35394.0,0,100.0,Fair
+1008,Customer_1008,Boston Financial,708,Retired,1,35448.0,0,100.0,Good
+1009,Customer_1009,Downtown Metro,709,Retired,1,35454.0,0,100.0,Good
+1011,Customer_1011,Chicago Central,711,Employed,1,35466.0,0,100.0,Good
+1012,Customer_1012,Texas Hub,712,Employed,1,35472.0,0,100.0,Good
+1013,Customer_1013,Silicon Valley,713,Employed,1,35478.0,0,100.0,Good
+1014,Customer_1014,West Coast Tower,714,Employed,1,35484.0,0,100.0,Good
+1016,Customer_1016,Boston Financial,716,Self-Employed,1,35496.0,0,100.0,Good
+1017,Customer_1017,Downtown Metro,717,Self-Employed,1,35502.0,0,100.0,Good
+1018,Customer_1018,Midtown Plaza,718,Retired,1,35508.0,0,100.0,Good
+1019,Customer_1019,Chicago Central,719,Retired,1,35514.0,0,100.0,Good
+1021,Customer_1021,Silicon Valley,721,Employed,1,35526.0,0,100.0,Good
+1022,Customer_1022,West Coast Tower,722,Employed,1,35532.0,0,100.0,Good
+1023,Customer_1023,Miami Beach,723,Employed,1,35538.0,0,100.0,Good
+1024,Customer_1024,Boston Financial,724,Employed,1,35544.0,0,100.0,Good
+1025,Customer_1025,Downtown Metro,725,Self-Employed,1,35550.0,0,100.0,Good
+1026,Customer_1026,Midtown Plaza,726,Self-Employed,1,35556.0,0,100.0,Good
+1027,Customer_1027,Chicago Central,727,Self-Employed,1,35562.0,0,100.0,Good
+1028,Customer_1028,Texas Hub,728,Retired,1,35568.0,0,100.0,Good
+1029,Customer_1029,Silicon Valley,729,Retired,1,35574.0,0,100.0,Good
+1031,Customer_1031,Miami Beach,731,Employed,1,35586.0,0,100.0,Good
+1032,Customer_1032,Boston Financial,732,Employed,1,35592.0,0,100.0,Good
+1033,Customer_1033,Downtown Metro,733,Employed,1,35598.0,0,100.0,Good
+1034,Customer_1034,Midtown Plaza,734,Employed,1,35604.0,0,100.0,Good
+1035,Customer_1035,Chicago Central,735,Self-Employed,1,35610.0,0,100.0,Good
+1036,Customer_1036,Texas Hub,736,Self-Employed,1,35616.0,0,100.0,Good
+1037,Customer_1037,Silicon Valley,737,Self-Employed,1,35622.0,0,100.0,Good
+1038,Customer_1038,West Coast Tower,738,Retired,1,35628.0,0,100.0,Good
+1039,Customer_1039,Miami Beach,739,Retired,1,35634.0,0,100.0,Good
+1041,Customer_1041,Downtown Metro,741,Employed,1,35646.0,0,100.0,Good
+1042,Customer_1042,Midtown Plaza,742,Employed,1,35652.0,0,100.0,Good
+1043,Customer_1043,Chicago Central,743,Employed,1,35658.0,0,100.0,Good
+1044,Customer_1044,Texas Hub,744,Employed,1,35664.0,0,100.0,Good
+1046,Customer_1046,West Coast Tower,746,Self-Employed,1,35676.0,0,100.0,Good
+1047,Customer_1047,Miami Beach,747,Self-Employed,1,35682.0,0,100.0,Good
+1048,Customer_1048,Boston Financial,748,Retired,1,35688.0,0,100.0,Good
+1049,Customer_1049,Downtown Metro,749,Retired,1,35694.0,0,100.0,Good
+1058,Customer_1058,Midtown Plaza,758,Retired,1,35748.0,0,100.0,Excellent
+1059,Customer_1059,Chicago Central,759,Retired,1,35754.0,0,100.0,Excellent
+1061,Customer_1061,Silicon Valley,761,Employed,1,35766.0,0,100.0,Excellent
+1062,Customer_1062,West Coast Tower,762,Employed,1,35772.0,0,100.0,Excellent
+1063,Customer_1063,Miami Beach,763,Employed,1,35778.0,0,100.0,Excellent
+1064,Customer_1064,Boston Financial,764,Employed,1,35784.0,0,100.0,Excellent
+1065,Customer_1065,Downtown Metro,765,Self-Employed,1,35790.0,0,100.0,Excellent
+1066,Customer_1066,Midtown Plaza,766,Self-Employed,1,35796.0,0,100.0,Excellent
+1067,Customer_1067,Chicago Central,767,Self-Employed,1,35802.0,0,100.0,Excellent
+1068,Customer_1068,Texas Hub,768,Retired,1,35808.0,0,100.0,Excellent
+1069,Customer_1069,Silicon Valley,769,Retired,1,35814.0,0,100.0,Excellent
+1071,Customer_1071,Miami Beach,771,Employed,1,35826.0,0,100.0,Excellent
+1072,Customer_1072,Boston Financial,772,Employed,1,35832.0,0,100.0,Excellent
+1073,Customer_1073,Downtown Metro,773,Employed,1,35838.0,0,100.0,Excellent
+1074,Customer_1074,Midtown Plaza,774,Employed,1,35844.0,0,100.0,Excellent
+1076,Customer_1076,Texas Hub,776,Self-Employed,1,35856.0,0,100.0,Excellent
+1077,Customer_1077,Silicon Valley,777,Self-Employed,1,35862.0,0,100.0,Excellent
+1078,Customer_1078,West Coast Tower,778,Retired,1,35868.0,0,100.0,Excellent
+1079,Customer_1079,Miami Beach,779,Retired,1,35874.0,0,100.0,Excellent
+1081,Customer_1081,Downtown Metro,781,Employed,1,35886.0,0,100.0,Excellent
+1082,Customer_1082,Midtown Plaza,782,Employed,1,35892.0,0,100.0,Excellent
+1083,Customer_1083,Chicago Central,783,Employed,1,35898.0,0,100.0,Excellent
+1084,Customer_1084,Texas Hub,784,Employed,1,35904.0,0,100.0,Excellent
+1085,Customer_1085,Silicon Valley,785,Self-Employed,1,35910.0,0,100.0,Excellent
+1086,Customer_1086,West Coast Tower,786,Self-Employed,1,35916.0,0,100.0,Excellent
+1087,Customer_1087,Miami Beach,787,Self-Employed,1,35922.0,0,100.0,Excellent
+1088,Customer_1088,Boston Financial,788,Retired,1,35928.0,0,100.0,Excellent
+1089,Customer_1089,Downtown Metro,789,Retired,1,35934.0,0,100.0,Excellent
+1091,Customer_1091,Chicago Central,791,Employed,1,35946.0,0,100.0,Excellent
+1092,Customer_1092,Texas Hub,792,Employed,1,35952.0,0,100.0,Excellent
+1093,Customer_1093,Silicon Valley,793,Employed,1,35958.0,0,100.0,Excellent
+1094,Customer_1094,West Coast Tower,794,Employed,1,35964.0,0,100.0,Excellent
+1095,Customer_1095,Miami Beach,795,Self-Employed,1,35970.0,0,100.0,Excellent
+1096,Customer_1096,Boston Financial,796,Self-Employed,1,35976.0,0,100.0,Excellent
+1097,Customer_1097,Downtown Metro,797,Self-Employed,1,35982.0,0,100.0,Excellent
+1098,Customer_1098,Midtown Plaza,798,Retired,1,35988.0,0,100.0,Excellent
+1099,Customer_1099,Chicago Central,799,Retired,1,35994.0,0,100.0,Excellent
+1108,Customer_1108,Texas Hub,808,Retired,1,36048.0,0,100.0,Excellent
+1109,Customer_1109,Silicon Valley,809,Retired,1,36054.0,0,100.0,Excellent
+1111,Customer_1111,Miami Beach,811,Employed,1,36066.0,0,100.0,Excellent
+1112,Customer_1112,Boston Financial,812,Employed,1,36072.0,0,100.0,Excellent
+1113,Customer_1113,Downtown Metro,813,Employed,1,36078.0,0,100.0,Excellent
+1114,Customer_1114,Midtown Plaza,814,Employed,1,36084.0,0,100.0,Excellent
+1115,Customer_1115,Chicago Central,815,Self-Employed,1,36090.0,0,100.0,Excellent
+1116,Customer_1116,Texas Hub,816,Self-Employed,1,36096.0,0,100.0,Excellent
+1117,Customer_1117,Silicon Valley,817,Self-Employed,1,36102.0,0,100.0,Excellent
+1118,Customer_1118,West Coast Tower,818,Retired,1,36108.0,0,100.0,Excellent
+1119,Customer_1119,Miami Beach,819,Retired,1,36114.0,0,100.0,Excellent
+1121,Customer_1121,Downtown Metro,821,Employed,1,36126.0,0,100.0,Excellent
+1122,Customer_1122,Midtown Plaza,822,Employed,1,36132.0,0,100.0,Excellent
+1123,Customer_1123,Chicago Central,823,Employed,1,36138.0,0,100.0,Excellent
+1124,Customer_1124,Texas Hub,824,Employed,1,36144.0,0,100.0,Excellent
+1125,Customer_1125,Silicon Valley,825,Self-Employed,1,36150.0,0,100.0,Excellent
+1126,Customer_1126,West Coast Tower,826,Self-Employed,1,36156.0,0,100.0,Excellent
+1127,Customer_1127,Miami Beach,827,Self-Employed,1,36162.0,0,100.0,Excellent
+1128,Customer_1128,Boston Financial,828,Retired,1,36168.0,0,100.0,Excellent
+1129,Customer_1129,Downtown Metro,829,Retired,1,36174.0,0,100.0,Excellent
+1131,Customer_1131,Chicago Central,831,Employed,1,36186.0,0,100.0,Excellent
+1132,Customer_1132,Texas Hub,832,Employed,1,36192.0,0,100.0,Excellent
+1133,Customer_1133,Silicon Valley,833,Employed,1,36198.0,0,100.0,Excellent
+1134,Customer_1134,West Coast Tower,834,Employed,1,36204.0,0,100.0,Excellent
+1136,Customer_1136,Boston Financial,836,Self-Employed,1,36216.0,0,100.0,Excellent
+1137,Customer_1137,Downtown Metro,837,Self-Employed,1,36222.0,0,100.0,Excellent
+1138,Customer_1138,Midtown Plaza,838,Retired,1,36228.0,0,100.0,Excellent
+1139,Customer_1139,Chicago Central,839,Retired,1,36234.0,0,100.0,Excellent
+1141,Customer_1141,Silicon Valley,841,Employed,1,36246.0,0,100.0,Excellent
+1142,Customer_1142,West Coast Tower,842,Employed,1,36252.0,0,100.0,Excellent
+1143,Customer_1143,Miami Beach,843,Employed,1,36258.0,0,100.0,Excellent
+1144,Customer_1144,Boston Financial,844,Employed,1,36264.0,0,100.0,Excellent
+1145,Customer_1145,Downtown Metro,845,Self-Employed,1,36270.0,0,100.0,Excellent
+1146,Customer_1146,Midtown Plaza,846,Self-Employed,1,36276.0,0,100.0,Excellent
+1147,Customer_1147,Chicago Central,847,Self-Employed,1,36282.0,0,100.0,Excellent
+1148,Customer_1148,Texas Hub,848,Retired,1,36288.0,0,100.0,Excellent
+1149,Customer_1149,Silicon Valley,849,Retired,1,36294.0,0,100.0,Excellent
+1158,Customer_1158,West Coast Tower,858,Retired,1,36348.0,0,100.0,Excellent
+1159,Customer_1159,Miami Beach,859,Retired,1,36354.0,0,100.0,Excellent
+1161,Customer_1161,Downtown Metro,861,Employed,1,36366.0,0,100.0,Excellent
+1162,Customer_1162,Midtown Plaza,862,Employed,1,36372.0,0,100.0,Excellent
+1163,Customer_1163,Chicago Central,863,Employed,1,36378.0,0,100.0,Excellent
+1164,Customer_1164,Texas Hub,864,Employed,1,36384.0,0,100.0,Excellent
+1166,Customer_1166,West Coast Tower,866,Self-Employed,1,36396.0,0,100.0,Excellent
+1167,Customer_1167,Miami Beach,867,Self-Employed,1,36402.0,0,100.0,Excellent
+1168,Customer_1168,Boston Financial,868,Retired,1,36408.0,0,100.0,Excellent
+1169,Customer_1169,Downtown Metro,869,Retired,1,36414.0,0,100.0,Excellent
+1171,Customer_1171,Chicago Central,871,Employed,1,36426.0,0,100.0,Excellent
+1172,Customer_1172,Texas Hub,872,Employed,1,36432.0,0,100.0,Excellent
+1173,Customer_1173,Silicon Valley,873,Employed,1,36438.0,0,100.0,Excellent
+1174,Customer_1174,West Coast Tower,874,Employed,1,36444.0,0,100.0,Excellent
+1175,Customer_1175,Miami Beach,875,Self-Employed,1,36450.0,0,100.0,Excellent
+1176,Customer_1176,Boston Financial,876,Self-Employed,1,36456.0,0,100.0,Excellent
+1177,Customer_1177,Downtown Metro,877,Self-Employed,1,36462.0,0,100.0,Excellent
+1178,Customer_1178,Midtown Plaza,878,Retired,1,36468.0,0,100.0,Excellent
+1179,Customer_1179,Chicago Central,879,Retired,1,36474.0,0,100.0,Excellent
+1181,Customer_1181,Silicon Valley,881,Employed,1,36486.0,0,100.0,Excellent
+1182,Customer_1182,West Coast Tower,882,Employed,1,36492.0,0,100.0,Excellent
+1183,Customer_1183,Miami Beach,883,Employed,1,36498.0,0,100.0,Excellent
+1184,Customer_1184,Boston Financial,884,Employed,1,36504.0,0,100.0,Excellent
+1185,Customer_1185,Downtown Metro,885,Self-Employed,1,36510.0,0,100.0,Excellent
+1186,Customer_1186,Midtown Plaza,886,Self-Employed,1,36516.0,0,100.0,Excellent
+1187,Customer_1187,Chicago Central,887,Self-Employed,1,36522.0,0,100.0,Excellent
+1188,Customer_1188,Texas Hub,888,Retired,1,36528.0,0,100.0,Excellent
+1189,Customer_1189,Silicon Valley,889,Retired,1,36534.0,0,100.0,Excellent
+1191,Customer_1191,Miami Beach,891,Employed,1,36546.0,0,100.0,Excellent
+1192,Customer_1192,Boston Financial,892,Employed,1,36552.0,0,100.0,Excellent
+1193,Customer_1193,Downtown Metro,893,Employed,1,36558.0,0,100.0,Excellent
+1194,Customer_1194,Midtown Plaza,894,Employed,1,36564.0,0,100.0,Excellent
+1196,Customer_1196,Texas Hub,896,Self-Employed,1,36576.0,0,100.0,Excellent
+1197,Customer_1197,Silicon Valley,897,Self-Employed,1,36582.0,0,100.0,Excellent
+1198,Customer_1198,West Coast Tower,898,Retired,1,36588.0,0,100.0,Excellent
+1199,Customer_1199,Miami Beach,899,Retired,1,36594.0,0,100.0,Excellent
+100,Customer_100,Texas Hub,700,,1,36600.0,1,0.0,Poor
+101,Customer_101,Silicon Valley,701,Employed,2,66612.0,0,0.0,Poor
+102,Customer_102,West Coast Tower,702,Employed,2,66624.0,0,0.0,Poor
+103,Customer_103,Miami Beach,703,Employed,2,66636.0,0,0.0,Poor
+104,Customer_104,Boston Financial,704,Employed,2,66648.0,0,0.0,Poor
+105,Customer_105,Downtown Metro,705,Self-Employed,2,66660.0,0,0.0,Poor
+106,Customer_106,Midtown Plaza,706,Self-Employed,2,66672.0,0,0.0,Poor
+107,Customer_107,Chicago Central,707,Self-Employed,2,66684.0,0,0.0,Poor
+110,Customer_110,West Coast Tower,710,,1,30060.0,0,0.0,Poor
+120,Customer_120,Boston Financial,720,,2,66840.0,2,0.0,Poor
+130,Customer_130,Midtown Plaza,730,,1,36780.0,0,0.0,Poor
+140,Customer_140,Texas Hub,740,,1,30240.0,1,0.0,Poor
+150,Customer_150,West Coast Tower,750,,2,67200.0,0,0.0,Poor
+151,Customer_151,Miami Beach,751,Employed,2,67212.0,0,0.0,Poor
+152,Customer_152,Boston Financial,752,Employed,2,67224.0,0,0.0,Poor
+153,Customer_153,Downtown Metro,753,Employed,2,67236.0,0,0.0,Poor
+154,Customer_154,Midtown Plaza,754,Employed,2,67248.0,0,0.0,Poor
+155,Customer_155,Chicago Central,755,Self-Employed,1,30330.0,0,0.0,Poor
+156,Customer_156,Texas Hub,756,Self-Employed,2,67272.0,0,0.0,Poor
+157,Customer_157,Silicon Valley,757,Self-Employed,2,67284.0,0,0.0,Poor
+160,Customer_160,Boston Financial,760,,1,36960.0,1,0.0,Poor
+170,Customer_170,Midtown Plaza,770,,1,30420.0,0,0.0,Poor
+180,Customer_180,Texas Hub,780,,2,67560.0,2,0.0,Poor
+190,Customer_190,West Coast Tower,790,,1,37140.0,0,0.0,Poor
+200,Customer_200,Boston Financial,800,,1,30600.0,1,0.0,Poor
+201,Customer_201,Downtown Metro,801,Employed,2,67812.0,0,0.0,Poor
+202,Customer_202,Midtown Plaza,802,Employed,2,67824.0,0,0.0,Poor
+203,Customer_203,Chicago Central,803,Employed,2,67836.0,0,0.0,Poor
+204,Customer_204,Texas Hub,804,Employed,2,67848.0,0,0.0,Poor
+205,Customer_205,Silicon Valley,805,Self-Employed,1,37230.0,0,0.0,Poor
+206,Customer_206,West Coast Tower,806,Self-Employed,2,67872.0,0,0.0,Poor
+207,Customer_207,Miami Beach,807,Self-Employed,2,67884.0,0,0.0,Poor
+210,Customer_210,Midtown Plaza,810,,2,67920.0,0,0.0,Poor
+220,Customer_220,Texas Hub,820,,1,37320.0,1,0.0,Poor
+230,Customer_230,West Coast Tower,830,,1,30780.0,0,0.0,Poor
+240,Customer_240,Boston Financial,840,,2,68280.0,2,0.0,Poor
+250,Customer_250,Midtown Plaza,850,,1,37500.0,0,0.0,Poor
+251,Customer_251,Chicago Central,851,Employed,2,68412.0,0,0.0,Poor
+252,Customer_252,Texas Hub,852,Employed,2,68424.0,0,0.0,Poor
+253,Customer_253,Silicon Valley,853,Employed,2,68436.0,0,0.0,Poor
+254,Customer_254,West Coast Tower,854,Employed,2,68448.0,0,0.0,Poor
+255,Customer_255,Miami Beach,855,Self-Employed,2,68460.0,0,0.0,Poor
+256,Customer_256,Boston Financial,856,Self-Employed,2,68472.0,0,0.0,Poor
+257,Customer_257,Downtown Metro,857,Self-Employed,2,68484.0,0,0.0,Poor
+260,Customer_260,Texas Hub,860,,1,30960.0,1,0.0,Poor
+270,Customer_270,West Coast Tower,870,,2,68640.0,0,0.0,Poor
+280,Customer_280,Boston Financial,880,,1,37680.0,1,0.0,Poor
+290,Customer_290,Midtown Plaza,890,,1,31140.0,0,0.0,Poor
+300,Customer_300,Texas Hub,600,,2,69000.0,2,0.0,Poor
+301,Customer_301,Silicon Valley,601,Employed,2,69012.0,0,0.0,Poor
+302,Customer_302,West Coast Tower,602,Employed,2,69024.0,0,0.0,Poor
+303,Customer_303,Miami Beach,603,Employed,2,69036.0,0,0.0,Poor
+304,Customer_304,Boston Financial,604,Employed,2,69048.0,0,0.0,Poor
+305,Customer_305,Downtown Metro,605,Self-Employed,1,31230.0,0,0.0,Poor
+306,Customer_306,Midtown Plaza,606,Self-Employed,2,69072.0,0,0.0,Poor
+307,Customer_307,Chicago Central,607,Self-Employed,2,69084.0,0,0.0,Poor
+310,Customer_310,West Coast Tower,610,,1,37860.0,0,0.0,Poor
+320,Customer_320,Boston Financial,620,,1,31320.0,1,0.0,Poor
+330,Customer_330,Midtown Plaza,630,,2,69360.0,0,0.0,Poor
+340,Customer_340,Texas Hub,640,,1,38040.0,1,0.0,Poor
+350,Customer_350,West Coast Tower,650,,1,31500.0,0,0.0,Poor
+351,Customer_351,Miami Beach,651,Employed,2,69612.0,0,0.0,Poor
+352,Customer_352,Boston Financial,652,Employed,2,69624.0,0,0.0,Poor
+353,Customer_353,Downtown Metro,653,Employed,2,69636.0,0,0.0,Poor
+354,Customer_354,Midtown Plaza,654,Employed,2,69648.0,0,0.0,Poor
+355,Customer_355,Chicago Central,655,Self-Employed,1,38130.0,0,0.0,Poor
+356,Customer_356,Texas Hub,656,Self-Employed,2,69672.0,0,0.0,Poor
+357,Customer_357,Silicon Valley,657,Self-Employed,2,69684.0,0,0.0,Poor
+360,Customer_360,Boston Financial,660,,2,69720.0,2,0.0,Poor
+370,Customer_370,Midtown Plaza,670,,1,38220.0,0,0.0,Poor
+380,Customer_380,Texas Hub,680,,1,31680.0,1,0.0,Poor
+390,Customer_390,West Coast Tower,690,,2,70080.0,0,0.0,Poor
+400,Customer_400,Boston Financial,700,,1,38400.0,1,0.0,Poor
+401,Customer_401,Downtown Metro,701,Employed,2,70212.0,0,0.0,Poor
+402,Customer_402,Midtown Plaza,702,Employed,2,70224.0,0,0.0,Poor
+403,Customer_403,Chicago Central,703,Employed,2,70236.0,0,0.0,Poor
+404,Customer_404,Texas Hub,704,Employed,2,70248.0,0,0.0,Poor
+405,Customer_405,Silicon Valley,705,Self-Employed,2,70260.0,0,0.0,Poor
+406,Customer_406,West Coast Tower,706,Self-Employed,2,70272.0,0,0.0,Poor
+407,Customer_407,Miami Beach,707,Self-Employed,2,70284.0,0,0.0,Poor
+410,Customer_410,Midtown Plaza,710,,1,31860.0,0,0.0,Poor
+420,Customer_420,Texas Hub,720,,2,70440.0,2,0.0,Poor
+430,Customer_430,West Coast Tower,730,,1,38580.0,0,0.0,Poor
+440,Customer_440,Boston Financial,740,,1,32040.0,1,0.0,Poor
+450,Customer_450,Midtown Plaza,750,,2,70800.0,0,0.0,Poor
+451,Customer_451,Chicago Central,751,Employed,2,70812.0,0,0.0,Poor
+452,Customer_452,Texas Hub,752,Employed,2,70824.0,0,0.0,Poor
+453,Customer_453,Silicon Valley,753,Employed,2,70836.0,0,0.0,Poor
+454,Customer_454,West Coast Tower,754,Employed,2,70848.0,0,0.0,Poor
+455,Customer_455,Miami Beach,755,Self-Employed,1,32130.0,0,0.0,Poor
+456,Customer_456,Boston Financial,756,Self-Employed,2,70872.0,0,0.0,Poor
+457,Customer_457,Downtown Metro,757,Self-Employed,2,70884.0,0,0.0,Poor
+460,Customer_460,Texas Hub,760,,1,38760.0,1,0.0,Poor
+470,Customer_470,West Coast Tower,770,,1,32220.0,0,0.0,Poor
+480,Customer_480,Boston Financial,780,,2,71160.0,2,0.0,Poor
+490,Customer_490,Midtown Plaza,790,,1,38940.0,0,0.0,Poor
+500,Customer_500,Texas Hub,800,,1,32400.0,1,0.0,Poor
+501,Customer_501,Silicon Valley,801,Employed,1,32406.0,0,0.0,Poor
+502,Customer_502,West Coast Tower,802,Employed,1,32412.0,0,0.0,Poor
+503,Customer_503,Miami Beach,803,Employed,1,32418.0,0,0.0,Poor
+504,Customer_504,Boston Financial,804,Employed,1,32424.0,0,0.0,Poor
+506,Customer_506,Midtown Plaza,806,Self-Employed,1,32436.0,0,0.0,Poor
+507,Customer_507,Chicago Central,807,Self-Employed,1,32442.0,0,0.0,Poor
+510,Customer_510,West Coast Tower,810,,1,32460.0,0,0.0,Poor
+530,Customer_530,Midtown Plaza,830,,1,32580.0,0,0.0,Poor
+540,Customer_540,Texas Hub,840,,1,32640.0,1,0.0,Poor
+551,Customer_551,Miami Beach,851,Employed,1,32706.0,0,0.0,Poor
+552,Customer_552,Boston Financial,852,Employed,1,32712.0,0,0.0,Poor
+553,Customer_553,Downtown Metro,853,Employed,1,32718.0,0,0.0,Poor
+554,Customer_554,Midtown Plaza,854,Employed,1,32724.0,0,0.0,Poor
+555,Customer_555,Chicago Central,855,Self-Employed,1,32730.0,0,0.0,Poor
+556,Customer_556,Texas Hub,856,Self-Employed,1,32736.0,0,0.0,Poor
+557,Customer_557,Silicon Valley,857,Self-Employed,1,32742.0,0,0.0,Poor
+560,Customer_560,Boston Financial,860,,1,32760.0,1,0.0,Poor
+570,Customer_570,Midtown Plaza,870,,1,32820.0,0,0.0,Poor
+590,Customer_590,West Coast Tower,890,,1,32940.0,0,0.0,Poor
+600,Customer_600,Boston Financial,600,,1,33000.0,1,0.0,Poor
+601,Customer_601,Downtown Metro,601,Employed,1,33006.0,0,0.0,Poor
+602,Customer_602,Midtown Plaza,602,Employed,1,33012.0,0,0.0,Poor
+603,Customer_603,Chicago Central,603,Employed,1,33018.0,0,0.0,Poor
+604,Customer_604,Texas Hub,604,Employed,1,33024.0,0,0.0,Poor
+605,Customer_605,Silicon Valley,605,Self-Employed,1,33030.0,0,0.0,Poor
+606,Customer_606,West Coast Tower,606,Self-Employed,1,33036.0,0,0.0,Poor
+607,Customer_607,Miami Beach,607,Self-Employed,1,33042.0,0,0.0,Poor
+620,Customer_620,Texas Hub,620,,1,33120.0,1,0.0,Poor
+630,Customer_630,West Coast Tower,630,,1,33180.0,0,0.0,Poor
+650,Customer_650,Midtown Plaza,650,,1,33300.0,0,0.0,Poor
+651,Customer_651,Chicago Central,651,Employed,1,33306.0,0,0.0,Poor
+652,Customer_652,Texas Hub,652,Employed,1,33312.0,0,0.0,Poor
+653,Customer_653,Silicon Valley,653,Employed,1,33318.0,0,0.0,Poor
+654,Customer_654,West Coast Tower,654,Employed,1,33324.0,0,0.0,Poor
+656,Customer_656,Boston Financial,656,Self-Employed,1,33336.0,0,0.0,Poor
+657,Customer_657,Downtown Metro,657,Self-Employed,1,33342.0,0,0.0,Poor
+660,Customer_660,Texas Hub,660,,1,33360.0,1,0.0,Poor
+680,Customer_680,Boston Financial,680,,1,33480.0,1,0.0,Poor
+690,Customer_690,Midtown Plaza,690,,1,33540.0,0,0.0,Poor
+701,Customer_701,Silicon Valley,701,Employed,1,33606.0,0,0.0,Poor
+702,Customer_702,West Coast Tower,702,Employed,1,33612.0,0,0.0,Poor
+703,Customer_703,Miami Beach,703,Employed,1,33618.0,0,0.0,Poor
+704,Customer_704,Boston Financial,704,Employed,1,33624.0,0,0.0,Poor
+705,Customer_705,Downtown Metro,705,Self-Employed,1,33630.0,0,0.0,Poor
+706,Customer_706,Midtown Plaza,706,Self-Employed,1,33636.0,0,0.0,Poor
+707,Customer_707,Chicago Central,707,Self-Employed,1,33642.0,0,0.0,Poor
+710,Customer_710,West Coast Tower,710,,1,33660.0,0,0.0,Poor
+720,Customer_720,Boston Financial,720,,1,33720.0,1,0.0,Poor
+740,Customer_740,Texas Hub,740,,1,33840.0,1,0.0,Poor
+750,Customer_750,West Coast Tower,750,,1,33900.0,0,0.0,Poor
+751,Customer_751,Miami Beach,751,Employed,1,33906.0,0,0.0,Poor
+752,Customer_752,Boston Financial,752,Employed,1,33912.0,0,0.0,Poor
+753,Customer_753,Downtown Metro,753,Employed,1,33918.0,0,0.0,Poor
+754,Customer_754,Midtown Plaza,754,Employed,1,33924.0,0,0.0,Poor
+755,Customer_755,Chicago Central,755,Self-Employed,1,33930.0,0,0.0,Poor
+756,Customer_756,Texas Hub,756,Self-Employed,1,33936.0,0,0.0,Poor
+757,Customer_757,Silicon Valley,757,Self-Employed,1,33942.0,0,0.0,Poor
+770,Customer_770,Midtown Plaza,770,,1,34020.0,0,0.0,Poor
+780,Customer_780,Texas Hub,780,,1,34080.0,1,0.0,Poor
+800,Customer_800,Boston Financial,800,,1,34200.0,1,0.0,Poor
+801,Customer_801,Downtown Metro,801,Employed,1,34206.0,0,0.0,Poor
+802,Customer_802,Midtown Plaza,802,Employed,1,34212.0,0,0.0,Poor
+803,Customer_803,Chicago Central,803,Employed,1,34218.0,0,0.0,Poor
+804,Customer_804,Texas Hub,804,Employed,1,34224.0,0,0.0,Poor
+806,Customer_806,West Coast Tower,806,Self-Employed,1,34236.0,0,0.0,Poor
+807,Customer_807,Miami Beach,807,Self-Employed,1,34242.0,0,0.0,Poor
+810,Customer_810,Midtown Plaza,810,,1,34260.0,0,0.0,Poor
+830,Customer_830,West Coast Tower,830,,1,34380.0,0,0.0,Poor
+840,Customer_840,Boston Financial,840,,1,34440.0,1,0.0,Poor
+851,Customer_851,Chicago Central,851,Employed,1,34506.0,0,0.0,Poor
+852,Customer_852,Texas Hub,852,Employed,1,34512.0,0,0.0,Poor
+853,Customer_853,Silicon Valley,853,Employed,1,34518.0,0,0.0,Poor
+854,Customer_854,West Coast Tower,854,Employed,1,34524.0,0,0.0,Poor
+855,Customer_855,Miami Beach,855,Self-Employed,1,34530.0,0,0.0,Poor
+856,Customer_856,Boston Financial,856,Self-Employed,1,34536.0,0,0.0,Poor
+857,Customer_857,Downtown Metro,857,Self-Employed,1,34542.0,0,0.0,Poor
+860,Customer_860,Texas Hub,860,,1,34560.0,1,0.0,Poor
+870,Customer_870,West Coast Tower,870,,1,34620.0,0,0.0,Poor
+890,Customer_890,Midtown Plaza,890,,1,34740.0,0,0.0,Poor
+900,Customer_900,Texas Hub,600,,1,34800.0,1,0.0,Poor
+901,Customer_901,Silicon Valley,601,Employed,1,34806.0,0,0.0,Poor
+902,Customer_902,West Coast Tower,602,Employed,1,34812.0,0,0.0,Poor
+903,Customer_903,Miami Beach,603,Employed,1,34818.0,0,0.0,Poor
+904,Customer_904,Boston Financial,604,Employed,1,34824.0,0,0.0,Poor
+905,Customer_905,Downtown Metro,605,Self-Employed,1,34830.0,0,0.0,Poor
+906,Customer_906,Midtown Plaza,606,Self-Employed,1,34836.0,0,0.0,Poor
+907,Customer_907,Chicago Central,607,Self-Employed,1,34842.0,0,0.0,Poor
+920,Customer_920,Boston Financial,620,,1,34920.0,1,0.0,Poor
+930,Customer_930,Midtown Plaza,630,,1,34980.0,0,0.0,Poor
+950,Customer_950,West Coast Tower,650,,1,35100.0,0,0.0,Poor
+951,Customer_951,Miami Beach,651,Employed,1,35106.0,0,0.0,Poor
+952,Customer_952,Boston Financial,652,Employed,1,35112.0,0,0.0,Poor
+953,Customer_953,Downtown Metro,653,Employed,1,35118.0,0,0.0,Poor
+954,Customer_954,Midtown Plaza,654,Employed,1,35124.0,0,0.0,Poor
+956,Customer_956,Texas Hub,656,Self-Employed,1,35136.0,0,0.0,Poor
+957,Customer_957,Silicon Valley,657,Self-Employed,1,35142.0,0,0.0,Poor
+960,Customer_960,Boston Financial,660,,1,35160.0,1,0.0,Poor
+980,Customer_980,Texas Hub,680,,1,35280.0,1,0.0,Poor
+990,Customer_990,West Coast Tower,690,,1,35340.0,0,0.0,Poor
+1001,Customer_1001,Downtown Metro,701,Employed,1,35406.0,0,0.0,Poor
+1002,Customer_1002,Midtown Plaza,702,Employed,1,35412.0,0,0.0,Poor
+1003,Customer_1003,Chicago Central,703,Employed,1,35418.0,0,0.0,Poor
+1004,Customer_1004,Texas Hub,704,Employed,1,35424.0,0,0.0,Poor
+1005,Customer_1005,Silicon Valley,705,Self-Employed,1,35430.0,0,0.0,Poor
+1006,Customer_1006,West Coast Tower,706,Self-Employed,1,35436.0,0,0.0,Poor
+1007,Customer_1007,Miami Beach,707,Self-Employed,1,35442.0,0,0.0,Poor
+1010,Customer_1010,Midtown Plaza,710,,1,35460.0,0,0.0,Poor
+1020,Customer_1020,Texas Hub,720,,1,35520.0,1,0.0,Poor
+1040,Customer_1040,Boston Financial,740,,1,35640.0,1,0.0,Poor
+1050,Customer_1050,Midtown Plaza,750,,1,35700.0,0,0.0,Poor
+1051,Customer_1051,Chicago Central,751,Employed,1,35706.0,0,0.0,Poor
+1052,Customer_1052,Texas Hub,752,Employed,1,35712.0,0,0.0,Poor
+1053,Customer_1053,Silicon Valley,753,Employed,1,35718.0,0,0.0,Poor
+1054,Customer_1054,West Coast Tower,754,Employed,1,35724.0,0,0.0,Poor
+1055,Customer_1055,Miami Beach,755,Self-Employed,1,35730.0,0,0.0,Poor
+1056,Customer_1056,Boston Financial,756,Self-Employed,1,35736.0,0,0.0,Poor
+1057,Customer_1057,Downtown Metro,757,Self-Employed,1,35742.0,0,0.0,Poor
+1070,Customer_1070,West Coast Tower,770,,1,35820.0,0,0.0,Poor
+1080,Customer_1080,Boston Financial,780,,1,35880.0,1,0.0,Poor
+1100,Customer_1100,Texas Hub,800,,1,36000.0,1,0.0,Poor
+1101,Customer_1101,Silicon Valley,801,Employed,1,36006.0,0,0.0,Poor
+1102,Customer_1102,West Coast Tower,802,Employed,1,36012.0,0,0.0,Poor
+1103,Customer_1103,Miami Beach,803,Employed,1,36018.0,0,0.0,Poor
+1104,Customer_1104,Boston Financial,804,Employed,1,36024.0,0,0.0,Poor
+1106,Customer_1106,Midtown Plaza,806,Self-Employed,1,36036.0,0,0.0,Poor
+1107,Customer_1107,Chicago Central,807,Self-Employed,1,36042.0,0,0.0,Poor
+1110,Customer_1110,West Coast Tower,810,,1,36060.0,0,0.0,Poor
+1130,Customer_1130,Midtown Plaza,830,,1,36180.0,0,0.0,Poor
+1140,Customer_1140,Texas Hub,840,,1,36240.0,1,0.0,Poor
+1151,Customer_1151,Miami Beach,851,Employed,1,36306.0,0,0.0,Poor
+1152,Customer_1152,Boston Financial,852,Employed,1,36312.0,0,0.0,Poor
+1153,Customer_1153,Downtown Metro,853,Employed,1,36318.0,0,0.0,Poor
+1154,Customer_1154,Midtown Plaza,854,Employed,1,36324.0,0,0.0,Poor
+1155,Customer_1155,Chicago Central,855,Self-Employed,1,36330.0,0,0.0,Poor
+1156,Customer_1156,Texas Hub,856,Self-Employed,1,36336.0,0,0.0,Poor
+1157,Customer_1157,Silicon Valley,857,Self-Employed,1,36342.0,0,0.0,Poor
+1160,Customer_1160,Boston Financial,860,,1,36360.0,1,0.0,Poor
+1170,Customer_1170,Midtown Plaza,870,,1,36420.0,0,0.0,Poor
+1190,Customer_1190,West Coast Tower,890,,1,36540.0,0,0.0,Poor
